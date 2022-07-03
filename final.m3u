@@ -161,3 +161,5 @@ http://103.55.144.46/hls/mnx-hd.m3u8
 http://103.55.144.46/hls/madani.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Al Quran TV" tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/eZL8CKs.jpg" group-title="Islamic",Al Quran TV
 http://103.55.144.46/hls/qurqntv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Al Quran TV" tvg-logo="" group-title="Sports",Special Channel
+http://otv.ftpbd.net:1932/X6RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0UOezN/gazi-tvs/playlist.m3u8
