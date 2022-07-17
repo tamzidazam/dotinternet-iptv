@@ -79,7 +79,7 @@ http://103.55.144.46/hls/zeebanglahd.m3u8
 http://103.55.144.46/hls/starjalsha.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Star Plus" tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/starplushd.jpg" group-title="Indian",Star Plus
 http://172.27.27.3:8088/hls/09_StarPlus.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Set Max" tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/9xm.jpg" group-title="Indian",Set Max
+#EXTINF:-1 tvg-id="" tvg-name="Set Max" tvg-logo="https://raw.githubusercontent.com/tamzidazam/dotinternet-iptv/main/tv-logo/sonymaxhd.jpg" group-title="Indian",Set Max
 http://172.27.27.3:8088/hls/14_SonyMax.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Colors" tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/colorshd.jpg" group-title="Indian",Colors
 http://172.27.27.3:8088/hls/13_Colors.m3u8
@@ -173,3 +173,37 @@ http://stream.serverbd247.com/hls/serverbd247.com_starjalsha.m3u8
 http://stream.serverbd247.com/hls/serverbd247.com-zeebangla.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Star Sports 1 HD" tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/starsports1.jpg" group-title="Sports",Star Sports 1 HD
 http://103.109.56.116/live/skyfeed1002/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports Extra" tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/starsports1.jpg" group-title="Sports",Bein Sports Extra
+https://siloh.pluto.tv/lilo/production/bein/1/master_3.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Zee Bangla Cinema HD" tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/zeebanglacinema.jpg" group-title="Indian Bangla",Zee Bangla Cinema HD
+http://208.86.19.13:81/708.stream/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ATN Bangla" tvg-logo="https://raw.githubusercontent.com/tamzidazam/dotinternet-iptv/main/tv-logo/atnbangla.jpg" group-title="News",ATN Bangla
+http://103.55.144.46/hls/atn.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Gaan Bangla" tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/gaanbangla.jpg" group-title="Music",Gaan Bangla
+http://103.55.144.46/hls/gb.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Independent TV" tvg-logo="https://raw.githubusercontent.com/tamzidazam/dotinternet-iptv/main/tv-logo/independenttv.jpg" group-title="News",Independent TV
+http://103.55.144.46/hls/indepen.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Nagorik TV" tvg-logo="https://raw.githubusercontent.com/tamzidazam/dotinternet-iptv/main/tv-logo/nagorik.jpg" group-title="News",Nagorik TV
+http://103.55.144.46/hls/nagoriktv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Zee Cinema HD" tvg-logo="https://raw.githubusercontent.com/tamzidazam/dotinternet-iptv/main/tv-logo/utvaction.jpg" group-title="Indian",UTV Action
+http://144.217.70.181:9587/hin2/UTVACTION/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Set Max" tvg-logo="https://raw.githubusercontent.com/tamzidazam/dotinternet-iptv/main/tv-logo/sonymaxhd.jpg" group-title="Indian",Set Max
+http://221.120.204.4/SONY-MAX-LOCKLE/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Colors" tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/colorshd.jpg" group-title="Indian",Colors
+http://221.120.204.4/colours-hd-LOCKLE/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sony HD" tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/sonytv.jpg" group-title="Indian",Sony HD
+http://221.120.204.4/SONY-HD-LOCKLE/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Travel XP" tvg-logo="" group-title="English",Travel XP
+https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sony Aath" tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/sonyaath.jpg" group-title="Indian Bangla",Sony Aath
+http://45.127.56.3:9698/live/Corpus-POL/SRV4/1/SONY-AATH/video.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Rongeen TV" tvg-logo="" group-title="Kids",Rongeen TV
+http://rtmp.smartstream.video:1935/rongeentv/rongeentv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="boishakhi TV" tvg-logo="https://raw.githubusercontent.com/tamzidazam/dotinternet-iptv/main/tv-logo/boishakhi.jpg" group-title="News",boishakhi TV
+http://iptvbd.jagobd.com:1931/boishakhi/boishakhitv-org.stream/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RTV" tvg-logo="https://raw.githubusercontent.com/tamzidazam/dotinternet-iptv/main/tv-logo/rtv.jpg" group-title="News",RTV
+https://stream.cstfctg.com/rtvonline/rtv2021.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NTV" tvg-logo="https://raw.githubusercontent.com/tamzidazam/dotinternet-iptv/main/tv-logo/ntv.jpg" group-title="News",NTV
+https://a.jsrdn.com/broadcast/22680_3BR3zocwi9/-0800/c.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Ekushey TV" tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/ekushey.jpg" group-title="News",Ekushey TV
+https://ekusheyserver.com/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
