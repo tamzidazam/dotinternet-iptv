@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="Gazi TV-2" tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/gazi.jpg" group-title="News",Gazi TV-2
 http://172.27.27.3:8088/hls/01_Gazitv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="T-sports" tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/tsports.jpg" group-title="News",T Sports
+#EXTINF:-1 tvg-id="" tvg-name="T-sports" tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/tsports.jpg" group-title="Sports",T Sports
 http://172.27.27.3:8088/hls/02_IndependentTv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Ekushey TV" tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/ekushey.jpg" group-title="News",Ekushey TV
 https://ekusheyserver.com/etvlivesn.m3u8
@@ -163,3 +163,13 @@ http://103.55.144.46/hls/madani.m3u8
 http://103.55.144.46/hls/qurqntv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Al Quran TV" tvg-logo="" group-title="Sports",Special Channel
 http://otv.ftpbd.net:1932/X6RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0UOezN/gazi-tvs/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="T-sports" tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/tsports.jpg" group-title="Sports",T Sports
+http://stream.serverbd247.com/hls/serverbd247.com-tsportshd.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sony HD" tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/sonytv.jpg" group-title="Indian",Sony HD
+http://stream.serverbd247.com/hls/serverbd247.com-sonytv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Star Jalsha" tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/starjalsha.jpg" group-title="Indian Bangla",Star Jalsha
+http://stream.serverbd247.com/hls/serverbd247.com_starjalsha.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Zee Bangla" tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/zeebanglahd.jpg" group-title="Indian Bangla",Zee Bangla
+http://stream.serverbd247.com/hls/serverbd247.com-zeebangla.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Star Sports 1 HD" tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/starsports1.jpg" group-title="Sports",Star Sports 1 HD
+http://103.109.56.116/live/skyfeed1002/index.m3u8
