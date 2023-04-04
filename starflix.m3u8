@@ -37,3 +37,11 @@ https://ntv.tamzidazam.workers.dev/stream/ntv/master.m3u8
 https://banglavision.tamzidazam.workers.dev/stream/banglavision/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Jamuna TV" tvg-logo="https://raw.githubusercontent.com/tamzidazam/dotinternet-iptv/main/tv-logo/jamunatv.jpg" group-title="Youtube",Jamuna TV
 https://jamuna.tamzidazam.workers.dev/stream/banglavision/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Channel I" tvg-logo="https://raw.githubusercontent.com/tamzidazam/dotinternet-iptv/main/tv-logo/channeli.jpg" group-title="Youtube",Channel I
+https://channeli.tamzidazam.workers.dev/stream/banglavision/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AlJazeera" tvg-logo="https://raw.githubusercontent.com/tamzidazam/dotinternet-iptv/main/tv-logo/aljazeera.jpg" group-title="Youtube",AlJazeera
+://aljazeera.tamzidazam.workers.dev/stream/banglavision/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RTV" tvg-logo="https://raw.githubusercontent.com/tamzidazam/dotinternet-iptv/main/tv-logo/rtv.jpg" group-title="Youtube",RTV
+https://rtv.tamzidazam.workers.dev/stream/banglavision/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ATN News" tvg-logo="https://raw.githubusercontent.com/tamzidazam/dotinternet-iptv/main/tv-logo/atnnews.jpg" group-title="Youtube",ATN News
+https://atnnews.tamzidazam.workers.dev/stream/banglavision/master.m3u8
