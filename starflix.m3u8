@@ -1,49 +1,49 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="Gazi TV" tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/gazi.jpg" group-title="Wifi Network", [WiFi] Gazi TV
+#EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/gazi.jpg" group-title="Wifi Network", [WiFi] Gazi TV
 http://172.27.27.3:8088/hls/01_Gazitv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="T-sports" tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/tsports.jpg" group-title="Wifi Network", [WiFi] T-sports
+#EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/tsports.jpg" group-title="Wifi Network", [WiFi] T-sports
 http://172.27.27.3:8088/hls/02_IndependentTv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sony Ten 1" tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/ten1hd.jpg" group-title="Wifi Network", [WiFi] Sony Ten 1
+#EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/ten1hd.jpg" group-title="Wifi Network", [WiFi] Sony Ten 1
 http://172.27.27.3:8088/hls/03_Sonyten1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sony Ten 2" tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/ten2hd.jpg" group-title="Wifi Network", [WiFi] Sony Ten 2
+#EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/ten2hd.jpg" group-title="Wifi Network", [WiFi] Sony Ten 2
 http://172.27.27.3:8088/hls/04_Sonyten2.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Nagorik TV" tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/nagorik.jpg" group-title="Wifi Network", [WiFi] Nagorik TV
+#EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/nagorik.jpg" group-title="Wifi Network", [WiFi] Nagorik TV
 http://172.27.27.3:8088/hls/06_T-SportsBD.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Star Sports 1" tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/starsports1.jpg" group-title="Wifi Network", [WiFi] Star Sports 1
+#EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/starsports1.jpg" group-title="Wifi Network", [WiFi] Star Sports 1
 http://172.27.27.3:8088/hls/07_StarSports1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Star Sports 2" tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/starsports2.jpg" group-title="Wifi Network", [WiFi] Star Sports 2
+#EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/starsports2.jpg" group-title="Wifi Network", [WiFi] Star Sports 2
 http://172.27.27.3:8088/hls/08StarSports2.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Star Jalsha" tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/starjalsha.jpg" group-title="Wifi Network", [WiFi] Star Jalsha
+#EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/starjalsha.jpg" group-title="Wifi Network", [WiFi] Star Jalsha
 http://172.27.27.3:8088/hls/10_StarJalsha.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Star Movies" tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/starmovieshd.jpg" group-title="Wifi Network", [WiFi] Star Movies
+#EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/starmovieshd.jpg" group-title="Wifi Network", [WiFi] Star Movies
 http://172.27.27.3:8088/hls/11_StarGold.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Zee Bangla" tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/zeebanglahd.jpg" group-title="Wifi Network", [WiFi] Zee Bangla
+#EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/zeebanglahd.jpg" group-title="Wifi Network", [WiFi] Zee Bangla
 http://172.27.27.3:8088/hls/12_ZeeBangla.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Colors" tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/colorshd.jpg" group-title="Wifi Network", [WiFi] Colors
+#EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/colorshd.jpg" group-title="Wifi Network", [WiFi] Colors
 http://172.27.27.3:8088/hls/13_Colors.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PTV Sports" tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/gazi.jpg" group-title="Wifi Network", [WiFi] PTV Sports
+#EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/gazi.jpg" group-title="Wifi Network", [WiFi] PTV Sports
 http://172.27.27.3:8088/hls/15_ptv_sports.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sony Max" tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/sonymaxhd.jpg" group-title="Wifi Network", [WiFi] Sony Max
+#EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/sonymaxhd.jpg" group-title="Wifi Network", [WiFi] Sony Max
 http://172.27.27.3:8088/hls/14_SonyMax.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sony SAB" tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/sonysabhd.jpg" group-title="Wifi Network", [WiFi] Sony SAB
+#EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/sonysabhd.jpg" group-title="Wifi Network", [WiFi] Sony SAB
 http://172.27.27.3:8088/hls/16_SonySAB.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ekhon TV" tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/ekhontv.jpg" group-title="Youtube", [Youtube] Ekhon TV
+#EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/ekhontv.jpg" group-title="Youtube", [Youtube] Ekhon TV
 https://ekhontv.tamzidazam.workers.dev/stream/EKHONTV/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Somoy TV" tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/somoy.jpg" group-title="Youtube", [Youtube] Somoy TV
+#EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/somoy.jpg" group-title="Youtube", [Youtube] Somoy TV
 https://somoytv.tamzidazam.workers.dev/stream/somoy/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NTV" tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/ntv.jpg" group-title="Youtube", [Youtube] NTV
+#EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/ntv.jpg" group-title="Youtube", [Youtube] NTV
 https://ntv.tamzidazam.workers.dev/stream/ntv/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BanglaVision" tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/banglavision.jpg" group-title="Youtube", [Youtube] BanglaVision
+#EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/banglavision.jpg" group-title="Youtube", [Youtube] BanglaVision
 https://banglavision.tamzidazam.workers.dev/stream/banglavision/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Jamuna TV" tvg-logo="https://raw.githubusercontent.com/tamzidazam/dotinternet-iptv/main/tv-logo/jamunatv.jpg" group-title="Youtube", [Youtube] Jamuna TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tamzidazam/dotinternet-iptv/main/tv-logo/jamunatv.jpg" group-title="Youtube", [Youtube] Jamuna TV
 https://jamuna.tamzidazam.workers.dev/stream/banglavision/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Channel I" tvg-logo="https://raw.githubusercontent.com/tamzidazam/dotinternet-iptv/main/tv-logo/channeli.jpg" group-title="Youtube", [Youtube] Channel I
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tamzidazam/dotinternet-iptv/main/tv-logo/channeli.jpg" group-title="Youtube", [Youtube] Channel I
 https://channeli.tamzidazam.workers.dev/stream/banglavision/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AlJazeera" tvg-logo="https://raw.githubusercontent.com/tamzidazam/dotinternet-iptv/main/tv-logo/aljazeera.jpg" group-title="Youtube", [Youtube] AlJazeera
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tamzidazam/dotinternet-iptv/main/tv-logo/aljazeera.jpg" group-title="Youtube", [Youtube] AlJazeera
 ://aljazeera.tamzidazam.workers.dev/stream/banglavision/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RTV" tvg-logo="https://raw.githubusercontent.com/tamzidazam/dotinternet-iptv/main/tv-logo/rtv.jpg" group-title="Youtube", [Youtube] RTV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tamzidazam/dotinternet-iptv/main/tv-logo/rtv.jpg" group-title="Youtube", [Youtube] RTV
 https://rtv.tamzidazam.workers.dev/stream/banglavision/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ATN News" tvg-logo="https://raw.githubusercontent.com/tamzidazam/dotinternet-iptv/main/tv-logo/atnnews.jpg" group-title="Youtube", [Youtube] ATN News
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tamzidazam/dotinternet-iptv/main/tv-logo/atnnews.jpg" group-title="Youtube", [Youtube] ATN News
 https://atnnews.tamzidazam.workers.dev/stream/banglavision/master.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/btvworld.jpg" group-title="Jago BD", [JagoBD] BTV World
 https://bd.jagobd.com:444/live-orgin/btvbd-office-sg.stream/chunks.m3u8
