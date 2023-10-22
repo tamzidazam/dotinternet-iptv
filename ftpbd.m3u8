@@ -1,3 +1,18 @@
 #EXTM3U
 #EXTINF:-1,Gazi TV
 http://test-otv2.ftpbd.net/streams/115/index.m3u8
+#EXTINF:-1,STar Sports Select 1
+http://test-otv2.ftpbd.net/streams/116/index.m3u8
+#EXTINF:-1,Sony aath
+http://test-otv2.ftpbd.net/streams/117/index.m3u8
+#EXTINF:-1,Zee Bangla
+http://test-otv2.ftpbd.net/streams/119/index.m3u8
+#EXTINF:-1,BTV World
+http://test-otv2.ftpbd.net/streams/120/index.m3u8
+#EXTINF:-1,Star Sports 2
+http://test-otv2.ftpbd.net/streams/121/index.m3u8
+#EXTINF:-1,Sony Sports 3
+http://test-otv2.ftpbd.net/streams/122/index.m3u8
+#EXTINF:-1,Star Spprts Select 2
+http://test-otv2.ftpbd.net/streams/125/index.m3u8
+#EXTINF:-1,
