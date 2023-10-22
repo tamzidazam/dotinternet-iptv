@@ -1,87 +1,87 @@
 #EXTM3U
-#EXTINF:-1,Gazi TV
+#EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/tsports.jpg" ,TSports
 http://test-otv2.ftpbd.net/streams/115/index.m3u8
-#EXTINF:-1,Star Sports 1
+#EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/starsports1.jpg" ,Star Sports 1
 http://test-otv2.ftpbd.net/streams/110/index.m3u8
-#EXTINF:-1,STar Sports Select 1
+#EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/starselect1.jpg" ,Star Sports Select 1
 http://test-otv2.ftpbd.net/streams/116/index.m3u8
-#EXTINF:-1,Sony aath
+#EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/sonyaath.jpg" ,Sony aath
 http://test-otv2.ftpbd.net/streams/117/index.m3u8
-#EXTINF:-1,Zee Bangla
+#EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/zeebanglahd.jpg" ,Zee Bangla
 http://test-otv2.ftpbd.net/streams/119/index.m3u8
-#EXTINF:-1,BTV World
+#EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/btvworld.jpg" ,BTV World
 http://test-otv2.ftpbd.net/streams/120/index.m3u8
-#EXTINF:-1,Star Sports 2
+#EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/starsports2.jpg" ,Star Sports 2
 http://test-otv2.ftpbd.net/streams/121/index.m3u8
-#EXTINF:-1,Sony Sports 3
+#EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/.jpg" ,Sony Sports 3
 http://test-otv2.ftpbd.net/streams/122/index.m3u8
-#EXTINF:-1,Star Spprts Select 2
+#EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/starselect2.jpg" ,Star Sports Select 2
 http://test-otv2.ftpbd.net/streams/125/index.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/btvworld.jpg" group-title="Jago BD", [JagoBD] BTV World
+#EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/btvworld.jpg", BTV World
 https://bd.jagobd.com:444/live-orgin/btvbd-office-sg.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/atnbangla.jpg" group-title="Jago BD", [JagoBD] ATN BANGLA
+#EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/atnbangla.jpg", ATN BANGLA
 https://bd.jagobd.com:444/live-orgin/atnbd-8-org.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/atnislamictv.jpg" group-title="Jago BD", [JagoBD] ATN ISLAMIC
+#EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/atnislamictv.jpg", ATN ISLAMIC
 https://bd.jagobd.com:444/live-orgin/atnislamictv.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/banglatv.jpg" group-title="Jago BD", [JagoBD] BANGLA TV
+#EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/banglatv.jpg", BANGLA TV
 https://bd.jagobd.com:444/live-orgin/banglatvhd.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/banglavision.jpg" group-title="Jago BD", [JagoBD] BANGLAVISION
+#EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/banglavision.jpg", BANGLAVISION
 https://bd.jagobd.com:444/live-orgin/banglav000.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/boishakhi.jpg" group-title="Jago BD", [JagoBD] BOISHAKHI TV
+#EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/boishakhi.jpg", BOISHAKHI TV
 https://bd.jagobd.com:444/live-orgin/boishakhitv-org.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/boishakhi.jpg" group-title="Jago BD", [JagoBD] BOISHAKHI PLUS
+#EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/boishakhi.jpg", BOISHAKHI PLUS
 https://bd.jagobd.com:444/live-orgin/boishakhiplus.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/channeli.jpg" group-title="Jago BD", [JagoBD] CHANNEL I
+#EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/channeli.jpg", CHANNEL I
 https://bd.jagobd.com:444/live-orgin/channeli-8-org.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/mytv.jpg" group-title="Jago BD", [JagoBD] MY TV
+#EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/mytv.jpg", MY TV
 https://bd.jagobd.com:444/live-orgin/mytv-up-off.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/rtv.jpg" group-title="Jago BD", [JagoBD] RTV HD
+#EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/rtv.jpg", RTV HD
 https://bd.jagobd.com:444/live-orgin/rtv-sg.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/.jpg" group-title="Jago BD", [JagoBD] ROYEL TV [BD]
+#EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/.jpg", ROYEL TV [BD]
 https://bd.jagobd.com:444/live-orgin/royaltv.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/.jpg" group-title="Jago BD", [JagoBD] VOICE TV [BD]
+#EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/.jpg", VOICE TV [BD]
 https://bd.jagobd.com:444/live-orgin/voicetv.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/.jpg" group-title="Jago BD", [JagoBD] NAN TV [BD]
+#EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/.jpg", NAN TV [BD]
 https://bd.jagobd.com:444/live-orgin/nantv.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/.jpg" group-title="Jago BD", [JagoBD] BANGLA 21
+#EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/.jpg", BANGLA 21
 https://bd.jagobd.com:444/live-orgin/bangla21tv000889956-sg.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/.jpg" group-title="Jago BD", [JagoBD] CHANNEL S
+#EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/.jpg", CHANNEL S
 https://bd.jagobd.com:444/live-orgin/chsukoff.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/.jpg" group-title="Jago BD", [JagoBD] DESHI TV
+#EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/.jpg", DESHI TV
 https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/.jpg" group-title="Jago BD", [JagoBD] Bangla Talkies
+#EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/.jpg", Bangla Talkies
 http://45.127.56.3:7698/live/Corpus-POL/SRV2/4/BANGLA-TALKIES/video.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/atnmusic.jpg" group-title="Jago BD", [JagoBD] ATN MUSIC
+#EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/atnmusic.jpg", ATN MUSIC
 https://bd.jagobd.com:444/live-orgin/atnmusic.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/satv.jpg" group-title="Jago BD", [JagoBD] SATV
+#EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/satv.jpg", SATV
 http://iptvbd.jagobd.com:1931/live-orgin/satvoff5666.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/banglatv.jpg" group-title="Jago BD", [JagoBD] Bangla TV
+#EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/banglatv.jpg", Bangla TV
 http://iptvbd.jagobd.com:1931/live-orgin/banglatvhd.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/sonyaath.jpg" group-title="Jago BD", [JagoBD] Sony Aath
+#EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/sonyaath.jpg", Sony Aath
 http://45.127.56.3:9698/live/Corpus-POL/SRV4/1/SONY-AATH/video.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/somoy.jpg" group-title="Jago BD", [JagoBD] Somoy TV
+#EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/somoy.jpg", Somoy TV
 http://iptvbd.jagobd.com:1931/live-orgin/somoyt000011226615544544.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/independenttv.jpg" group-title="Jago BD", [JagoBD] Independent TV
+#EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/independenttv.jpg", Independent TV
 http://iptvbd.jagobd.com:1931/live-orgin/independent-8-org.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/jamunatv.jpg" group-title="Jago BD", [JagoBD] Jamuna TV
+#EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/jamunatv.jpg", Jamuna TV
 http://iptvbd.jagobd.com:1931/live-orgin/jamuna-test-sample-ok.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/news24.jpg" group-title="Jago BD", [JagoBD] News24
+#EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/news24.jpg", News24
 http://iptvbd.jagobd.com:1931/live-orgin/news24local.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/dbc.jpg" group-title="Jago BD", [JagoBD] DBC News
+#EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/dbc.jpg", DBC News
 http://iptvbd.jagobd.com:1931/live-orgin/dbcnews.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/ekushey.jpg" group-title="Jago BD", [JagoBD] EKUSHEY TV
+#EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/ekushey.jpg", EKUSHEY TV
 https://ekusheyserver.com/etvlivesn.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/.jpg" group-title="Jago BD", [JagoBD] Peace TV ENG
+#EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/.jpg", Peace TV ENG
 http://82.114.67.178:8081/hls/PeaceTV.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/bein2.jpg" group-title="Jago BD", [JagoBD] Dubai Sports 2
+#EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/bein2.jpg", Dubai Sports 2
 http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/bein3.jpg" group-title="Jago BD", [JagoBD] Dubai Sports 3
+#EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/bein3.jpg", Dubai Sports 3
 http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/index.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/zeeetc.jpg" group-title="Jago BD", [JagoBD] Zee News (720p)
+#EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/zeeetc.jpg", Zee News (720p)
 https://d233nwklwv8p4.cloudfront.net/out/v1/860cb318d23a4c64b58c9d625281170c/index_6.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/mohonatv.jpg" group-title="Jago BD", [JagoBD] Mohona
+#EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/mohonatv.jpg", Mohona
 http://iptvbd.jagobd.com:1931/live-orgin/mohonatv00000223232244556633.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/channel24.jpg" group-title="Jago BD", [JagoBD] Channel 24
+#EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/channel24.jpg", Channel 24
 http://iptvbd.jagobd.com:1931/live-orgin/channel24-sg-e8e.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/cartoonnetwork.jpg" group-title="Jago BD", [JagoBD] Cartoon Network
+#EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/cartoonnetwork.jpg", Cartoon Network
 https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist-720p.m3u8
