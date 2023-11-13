@@ -5,3 +5,5 @@ http://103.141.2.38/hls/Gazi-TV.m3u8
 http://103.141.2.38/hls/stersports1hd.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/gazi.jpg" ,Gazi TV
 https://ott.sonyplex.com:444/play/V7bMhseWvzq2L18X8hGbefmhw9o1yNtqn1S2CY6Yyi8/m3u8
+#EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/gazi.jpg" ,Gazi TV
+http://chanel.dekhaott.com/Gazi-TV/index.fmp4.m3u8
