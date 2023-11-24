@@ -57,8 +57,6 @@ http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/index.m3u8
 http://208.86.19.13:81/506.stream/index.m3u8
 #EXTINF:-1 ,Kappa TV
 http://103.199.161.254/Content/kappa/Live/Channel(Kappa)/index.m3u8
-#EXTINF:-1 ,ITV Bangla
-http://str24.l9574.com/512.stream/index.m3u8
 #EXTINF:-1 ,Channel S (1080p)
 https://amigofx.com:1936/channelsreporter/channelsreporter/playlist.m3u8
 #EXTINF:-1 ,Khusboo Bangla
@@ -75,8 +73,6 @@ http://iptv.prosto.tv:7000/ch50/video.m3u8
 https://moviesphere-samsung-samsungus.amagi.tv/playlist.m3u8
 #EXTINF:-1 ,Iqra Bangla freecatv
 http://208.86.19.13:81/507.stream/index.m3u8
-#EXTINF:-1 ,C MOVOIES
-http://208.86.19.13:81/22.stream/index.m3u8
 #EXTINF:-1 ,Wild EARTH
 https://wildearth-roku.amagi.tv/masterR720P.m3u8
 #EXTINF:-1 ,ZEE BANGLA
@@ -125,8 +121,6 @@ https://byphdgllyk.gpcdn.net/DeeptoTV/deeptotv-720p.m3u8
 http://103.230.105.252:1935/live/btv/manifest.mpd
 #EXTINF:-1 ,MusicIndia
 http://103.199.160.85/Content/musicindia/Live/Channel(MusicIndia)/index.m3u8
-#EXTINF:-1 ,PERSIANA2
-http://cds.h3t2e8k9.hwcdn.net:80/hls/persiana2/chunks.m3u8
 #EXTINF:-1 ,MQC TV
 http://208.86.19.13:81/517.stream/index.m3u8
 #EXTINF:-1 ,food
@@ -161,20 +155,12 @@ http://208.86.19.13:81/509.stream/index.m3u8?
 https://ekusheyserver.com:443/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 #EXTINF:-1 ,Ekushe TV Ch-1
 http://ekusheyserver.com/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
-#EXTINF:-1 ,INDEPENDENT TV
-http://str24.l9574.com/668.stream/index.m3u8?
 #EXTINF:-1 ,ABP Ananda
 https://abp-i.akamaihd.net/hls/live/765530/abpananda/master.m3u8
-#EXTINF:-1 ,ANANDA TV
-http://str24.l9574.com/669.stream/index.m3u8?
 #EXTINF:-1 ,BANGLA TV
 http://208.86.19.13:81/504.stream/index.m3u8?
-#EXTINF:-1 ,CHANNEL-I
-http://str24.l9574.com/510.stream/index.m3u8?
 #EXTINF:-1 ,CHANNEL I
 http://208.86.19.13:81/510.stream/index.m3u8?
-#EXTINF:-1 ,Khushboo Bangla
-http://103.223.14.56:8000/play/a0ti/index.m3u8
 #EXTINF:-1 ,Nandan TV
 https://web.nandansyst.com/hls/nandan.m3u8
 #EXTINF:-1 ,Anjan
