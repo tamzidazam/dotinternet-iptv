@@ -1,55 +1,55 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/tsports.jpg" ,[FTPBD] TSports
-http://otv.ftpbd.net:8082/T-Sports-HD/index.m3u8
+https://tv1.ta471.eu.org/T-Sports-HD/index.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/gazi.jpg" ,[FTPBD] Gazi TV HD
-http://otv.ftpbd.net:8082/Gazi-Tv-HD/index.m3u8
+https://tv1.ta471.eu.org/Gazi-Tv-HD/index.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/ten1hd.jpg" ,[FTPBD] Sony Ten 1
-http://otv.ftpbd.net:8082/SONY-TEN-1/index.m3u8
+https://tv1.ta471.eu.org/SONY-TEN-1/index.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/ten2hd.jpg" ,[FTPBD] Sony Ten 2
-http://otv.ftpbd.net:8082/Sony-Ten-2/index.m3u8
+https://tv1.ta471.eu.org/Sony-Ten-2/index.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/ten3hd.jpg" ,[FTPBD] Sony Ten 3
-http://otv.ftpbd.net:8082/Sony-Ten-3/index.m3u8
+https://tv1.ta471.eu.org/Sony-Ten-3/index.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/tensports.jpg" ,[FTPBD] Sony Ten 5 SD
-http://otv.ftpbd.net:8082/Sony-Ten-5-SD/index.m3u8
+https://tv1.ta471.eu.org/Sony-Ten-5-SD/index.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/starsports1.jpg" ,[FTPBD] Star Sports 1 HD
-http://otv.ftpbd.net:8082/Star-Sports-1-HD/index.m3u8
+https://tv1.ta471.eu.org/Star-Sports-1-HD/index.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/starselect1.jpg" ,[FTPBD] Star Select 1 HD
-http://otv.ftpbd.net:8082/Star-Select-1-HD/index.m3u8
+https://tv1.ta471.eu.org/Star-Select-1-HD/index.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/starselect2.jpg" ,[FTPBD] Star Select 2 HD
-http://otv.ftpbd.net:8082/Star-Select-2-HD/index.m3u8
+https://tv1.ta471.eu.org/Star-Select-2-HD/index.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/foxactionmovies.jpg" ,[FTPBD] Fox Action Movies
-http://otv.ftpbd.net:8082/Fox-Cartoon-HD/index.m3u8
+https://tv1.ta471.eu.org/Fox-Cartoon-HD/index.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/starmovieshd.jpg" ,[FTPBD] Star Movies Select HD
-http://otv.ftpbd.net:8082/History-18-HD/index.m3u8
+https://tv1.ta471.eu.org/History-18-HD/index.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/nationalgeo.jpg" ,[FTPBD] National Geographic
-http://otv.ftpbd.net:8082/National-Geographic-HD/index.m3u8
+https://tv1.ta471.eu.org/National-Geographic-HD/index.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/natgeowildhd.jpg" ,[FTPBD] National Geo Wild
-http://otv.ftpbd.net:8082/Wild-HD/index.m3u8
+https://tv1.ta471.eu.org/Wild-HD/index.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/discoveryhd.jpg" ,[FTPBD] Discovery HD
-http://otv.ftpbd.net:8082/Discovery-HD/index.m3u8
+https://tv1.ta471.eu.org/Discovery-HD/index.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/nick.jpg" ,[FTPBD] Nick
-http://otv.ftpbd.net:8082/Nick-Jr/index.m3u8
+https://tv1.ta471.eu.org/Nick-Jr/index.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/ebs-kids-7777.jpg" ,[FTPBD] BBC Kids
-http://otv.ftpbd.net:8082/BBC-Cbeebies-HD/index.m3u8
+https://tv1.ta471.eu.org/BBC-Cbeebies-HD/index.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/duronto.jpg" ,[FTPBD] Duronto TV
-http://otv.ftpbd.net:8082/Duronto-Tv-HD/index.m3u8
+https://tv1.ta471.eu.org/Duronto-Tv-HD/index.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/colorshd.jpg" ,[FTPBD] Colors SD
-http://otv.ftpbd.net:8082/Colors-Asia-SD/index.m3u8
+https://tv1.ta471.eu.org/Colors-Asia-SD/index.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/sonytv.jpg" ,[FTPBD] Sony HD
-http://otv.ftpbd.net:8082/Sony-Entertainment/index.m3u8
+https://tv1.ta471.eu.org/Sony-Entertainment/index.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/sonysabhd.jpg" ,[FTPBD] Sony Sab HD
-http://otv.ftpbd.net:8082/Sony-Sab-HD/index.m3u8
+https://tv1.ta471.eu.org/Sony-Sab-HD/index.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/sonymaxhd.jpg" ,[FTPBD] Sony Max HD
-http://otv.ftpbd.net:8082/Set-Max-HD/index.m3u8
+https://tv1.ta471.eu.org/Set-Max-HD/index.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/stargold.jpg" ,[FTPBD] Star Gold HD
-http://otv.ftpbd.net:8082/And-Prive-HD/index.m3u8
+https://tv1.ta471.eu.org/And-Prive-HD/index.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/stargoldselect.jpg" ,[FTPBD] Star Gold Select HD
-http://otv.ftpbd.net:8082/Star-Gold-Select-HD/index.m3u8
+https://tv1.ta471.eu.org/Star-Gold-Select-HD/index.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/andpictureshd.jpg" ,[FTPBD] And Pictures HD
-http://otv.ftpbd.net:8082/And-Pictures-HD/index.m3u8
+https://tv1.ta471.eu.org/And-Pictures-HD/index.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/starmovieshd.jpg" ,[FTPBD] Star Movies HD
-http://otv.ftpbd.net:8082/Hbo-HD/index.m3u8
+https://tv1.ta471.eu.org/Hbo-HD/index.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/deeptotv.jpg" ,[FTPBD] Deepto TV HD
-http://otv.ftpbd.net:8082/Deepto-Tv-HD/index.m3u8
+https://tv1.ta471.eu.org/Deepto-Tv-HD/index.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/zeebanglahd.jpg" ,[FTPBD] Zee Bangla HD
-http://otv.ftpbd.net:8082/Zee-Bangla-HD/index.m3u8
+https://tv1.ta471.eu.org/Zee-Bangla-HD/index.m3u8
