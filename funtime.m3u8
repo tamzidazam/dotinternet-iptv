@@ -1,0 +1,49 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/gazi.jpg", [FunTime] Gazi TV
+http://103.109.56.116/live/skyfeed1006/index.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/tsports.jpg", [FunTime] T-sports
+http://103.109.56.116/live/skyfeed1005/index.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/starsports1.jpg", [FunTime] Star Sports 1
+http://103.109.56.116/live/skyfeed1002/index.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/ten2hd.jpg", [FunTime] Sony Ten 2
+http://103.109.56.116/live/skyfeed1008/index.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/starsports2.jpg", [FunTime] Star Sports 2
+http://103.109.56.116/live/skyfeed1003/index.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/starselect1.jpg", [FunTime] Star Sports Select 1
+http://103.109.56.116/live/skyfeed1004/index.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/discoveryhd.jpg", [FunTime] Discovery
+http://103.109.56.116/live/funtime106/index.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/ten1hd.jpg", [FunTime] Sony Ten 1
+http://103.109.56.116/live/skyfeed1007/index.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/starjalsha.jpg", [FunTime] Star Jalsha
+http://103.109.56.116/live/funtime112/index.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/zeebanglahd.jpg", [FunTime] Zee Bangla
+http://103.109.56.116/live/funtime111/index.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/sonyaath.jpg", [FunTime] Sony Aath
+http://103.109.56.116/live/skyfeed1016/index.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/colorsbangla.jpg", [FunTime] Colors Bangla
+http://103.109.56.116/live/skyfeed1017/index.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/pogo.jpg", [FunTime] Pogo
+http://103.109.56.116/live/skyfeed1019/index.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/nick.jpg", [FunTime] Nick
+http://103.109.56.116/live/funtime110/index.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/independenttv.jpg", [FunTime] Independent
+http://103.109.56.116/live/skyfeed1012/index.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/somoy.jpg", [FunTime] Somoy
+http://103.109.56.116/live/skyfeed1014/index.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/jamunatv.jpg", [FunTime] Jamuna
+http://103.109.56.116/live/skyfeed1021/index.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/ekattortv.jpg", [FunTime] Ekattor
+http://103.109.56.116/live/skyfeed1015/index.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/deeptotv.jpg", [FunTime] Deepto
+http://103.109.56.116/live/skyfeed1011/index.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/dbc.jpg", [FunTime] DBC News
+http://103.109.56.116/live/funtime108/index.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/maasranga.jpg", [FunTime] Maasranga
+http://103.109.56.116/live/skyfeed1013/index.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/news24.jpg", [FunTime] News 24
+http://103.109.56.116/live/funtime109/index.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/redbulltv.jpg", [FunTime] Redbull TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
+
+
