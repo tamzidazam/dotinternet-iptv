@@ -1,4 +1,3 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/gazi.jpg" radio="true" ,Gazi TV
-#EXT-X-STREAM-ARTIST=99.3 FM
+#EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/gazi.jpg" radio="true" tvg-artist="99.3FM",Gazi TV
 https://stream.zeno.fm/u9mphfk604zuv
