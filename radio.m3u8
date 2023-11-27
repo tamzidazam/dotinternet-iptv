@@ -1,0 +1,71 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/radio-logo/dhaka.png" group-title="Bangla" radio="true",Dhaka FM 90.4 FM
+https://stream.zeno.fm/u9mphfk604zuv
+#EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/radio-logo/foorti.png" group-title="Bangla" radio="true",Radio Foorti 88.0 FM
+https://stream.zeno.fm/cwa3vg8s8druv
+#EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/radio-logo/bbc-bangla.png" group-title="Bangla" radio="true",BBC
+https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/dash/nonuk/cellular_main_sd_abr_v2/cfs/bbc_world_service.mpd
+#EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/radio-logo/shadhin.png" group-title="Bangla" radio="true",Radio Shadhin 92.4 FM
+https://stream.zeno.fm/umq9q5uuva5tv
+#EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/radio-logo/today.png" group-title="Bangla" radio="true",Radio Today FM 89.6 FM
+https://stream.zeno.fm/0zha3rfq02quv
+#EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/radio-logo/peoples.png" group-title="Bangla" radio="true",Peoples Radio 91.6 FM
+https://s3.myradiostream.com/14498/;
+#EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/radio-logo/bangla-net.png" group-title="Bangla" radio="true",Radio Bangla Net
+https://playerservices.streamtheworld.com/api/livestream-redirect/SP_R3563475_SC
+#EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/radio-logo/goongoon.png" group-title="Bangla" radio="true",Radio GoonGoon
+https://audio.streamcast.xyz/radio/8000/radio.mp3
+#EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/radio-logo/padma.png" group-title="Bangla" radio="true",Radio Padma 99.2 FM
+https://radiopadmabd.radioca.st/stream/1/
+#EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/radio-logo/bhumi.png" group-title="Bangla" radio="true",Radio Bhumi 92.8 FM
+https://stream.zeno.fm/ybf1umk1k18uv
+#EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/radio-logo/capital.png" group-title="Bangla" radio="true",Radio Capital 94.8 FM
+https://stream.zeno.fm/4nzaapqw34zuv.aac
+#EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/radio-logo/roots-air.png" group-title="Bangla" radio="true",Roots Air
+https://sslive.zeilsteen.com/;
+#EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/radio-logo/bongonet.png" group-title="Bangla" radio="true",Radio BongOnet
+https://stream.bongonet.net/proxy/radiobongonet?mp=/stream/1/
+#EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/radio-logo/folk-nama.png" group-title="Bangla" radio="true",Folk Nama
+https://stream.zeno.fm/z5r35gyr6x8uv
+#EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/radio-logo/go-yesteryears.png" group-title="Bangla" radio="true",Go Yesteryears
+https://stream.zeno.fm/15wnypt6by8uv
+#EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/radio-logo/robichhaya.png" group-title="Bangla" radio="true",Robichhaya
+https://stream.bongonet.net/proxy/robichhaya?mp=/stream/1/
+#EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/radio-logo/mono-phone.png" group-title="Bangla" radio="true",Mono Phone
+https://stream.bongonet.net/proxy/monophone?mp=/stream/1/
+#EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/radio-logo/discobani-kolkata.png" group-title="Bangla" radio="true",DiscoBani Kolkata
+https://stream.bongonet.net/proxy/discobanikolkata?mp=/stream/1/
+#EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/radio-logo/abirvab.png" group-title="Bangla" radio="true",Radio Abirvab
+https://stream.zeno.fm/yxc3k2pxyrquv
+#EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/radio-logo/betar-torongo.png" group-title="Bangla" radio="true",Betar Torongo
+https://stream.zeno.fm/v7tnp975wqzuv
+#EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/radio-logo/islamic.jpg" group-title="Bangla" radio="true",Islamic Radio Bangla
+https://audio.streamcast.xyz/radio/8000/radio.mp3
+#EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/radio-logo/bushra.png" group-title="Bangla" radio="true",Radio Bushra
+https://stream.zeno.fm/mzuka1fdxzzuv
+#EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/radio-logo/bangla-wadio.png" group-title="Bangla" radio="true",Bangla Wadio
+http://192.144.82.200:9334/;
+#EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/radio-logo/jago.png" group-title="Bangla" radio="true",Jaago 94.4 FM
+http://128.199.184.111:12496/;stream/1
+#EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/radio-logo/dhaka.png" group-title="Bangla" radio="true", Dhaka FM 90.4 FM-2
+https://stream.zeno.fm/ay4pqkk604zuv
+#EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/radio-logo/gaanbaksho.jpg" group-title="Bangla" radio="true",Gaan Baksho
+https://listen.openstream.co/5013/audio
+#EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/radio-logo/hemel-music-radio.jpg" group-title="Bangla" radio="true",Hemel Music
+https://stream.zeno.fm/4y4cz7x8gg8uv
+#EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/radio-logo/peoples.png" group-title="Bangla" radio="true",Peoples Radio 91.6 FM-2
+http://s3.myradiostream.com:14498/;
+#EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/radio-logo/rock.jpg" group-title="Bangla" radio="true",Radio Bangla Rock
+https://securestreams7.autopo.st/?uri=http://radio.bongonet.net:8020/radiobanglarock
+#EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/radio-logo/karatoa.jpg" group-title="Bangla" radio="true",Radio Korotoa
+https://stream.zeno.fm/u7p10xhsutzuv
+#EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/radio-logo/mahananda.jpg" group-title="Bangla" radio="true",Radio Mahananda 98.8 FM
+https://radiomahanandafm.radioca.st/rm.mp3
+#EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/radio-logo/radio-pabna-92-1-fm.jpg" group-title="Bangla" radio="true",Radio Pabna 92.1 FM
+https://audio.centraldj.com.br/centraldj
+#EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/radio-logo/padma.png" group-title="Bangla" radio="true",Radio Padma 99.2 FM
+https://securestreams7.autopo.st/?uri=http://cassini.shoutca.st:9109/radiopadma.mp3
+#EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/radio-logo/today.png" group-title="Bangla" radio="true",Radio Today 89.6 FM-2
+https://stream.zenolive.com/8wv4d8g4344tv
+#EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/radio-logo/radio-ullash.png" group-title="Bangla" radio="true",Radio Ullash
+https://stream.zeno.fm/gpgkgp9mp18uv.mp3
