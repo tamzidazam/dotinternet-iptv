@@ -7,23 +7,23 @@ http://172.27.27.3:8088/hls/02_IndependentTv.m3u8
 http://172.27.27.3:8088/hls/03_Sonyten1.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/ten2hd.jpg" group-title="Star-Sports",[StarFlix] Sony Ten 2
 http://172.27.27.3:8088/hls/04_Sonyten2.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/nagorik.jpg" group-title="Star-",[StarFlix] Nagorik TV
+#EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/nagorik.jpg" group-title="Star-News",[StarFlix] Nagorik TV
 http://172.27.27.3:8088/hls/06_T-SportsBD.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/starsports1.jpg" group-title="Star-Sports",[StarFlix] Star Sports 1
 http://172.27.27.3:8088/hls/07_StarSports1.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/starsports2.jpg" group-title="Star-"Sports,[StarFlix] Star Sports 2
 http://172.27.27.3:8088/hls/08StarSports2.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/starjalsha.jpg" group-title="Star-",[StarFlix] Star Jalsha
+#EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/starjalsha.jpg" group-title="Star-Entertainment",[StarFlix] Star Jalsha
 http://172.27.27.3:8088/hls/10_StarJalsha.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/starmovieshd.jpg" group-title="Star-",[StarFlix] Star Movies
+#EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/starmovieshd.jpg" group-title="Star-Entertainment",[StarFlix] Star Movies
 http://172.27.27.3:8088/hls/11_StarGold.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/zeebanglahd.jpg" group-title="Star-",[StarFlix] Zee Bangla
+#EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/zeebanglahd.jpg" group-title="Star-Entertainment",[StarFlix] Zee Bangla
 http://172.27.27.3:8088/hls/12_ZeeBangla.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/colorshd.jpg" group-title="Star-",[StarFlix] Colors
+#EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/colorshd.jpg" group-title="Star-Entertainment",[StarFlix] Colors
 http://172.27.27.3:8088/hls/13_Colors.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/gazi.jpg" group-title="Star-Sports",[StarFlix] PTV Sports
 http://172.27.27.3:8088/hls/15_ptv_sports.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/sonymaxhd.jpg" group-title="Star-",[StarFlix] Sony Max
+#EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/sonymaxhd.jpg" group-title="Star-Entertainment",[StarFlix] Sony Max
 http://172.27.27.3:8088/hls/14_SonyMax.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/sonysabhd.jpg" group-title="Star-",[StarFlix] Sony SAB
+#EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/sonysabhd.jpg" group-title="Star-Entertainment",[StarFlix] Sony SAB
 http://172.27.27.3:8088/hls/16_SonySAB.m3u8
