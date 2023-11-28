@@ -1,99 +1,99 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/gazi.jpg",Gazi TV
+#EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/gazi.jpg" group-title="Sony-Sports",Gazi TV
 https://ott.sonyplex.com:444/play/V7bMhseWvzq2L18X8hGbefmhw9o1yNtqn1S2CY6Yyi8/m3u8
-#EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/.jpg",Channel 24
+#EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/.jpg" group-title="Sony-News",Channel 24
 https://ott.sonyplex.com:444/play/EDI0B4ME7MUUyw-g59yLM9yBNeAOOVhbLwGi0eK_CUw/m3u8
-#EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/.jpg",DW
+#EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/.jpg" group-title="Sony-News",DW
 https://ott.sonyplex.com:444/play/EDI0B4ME7MUUyw-g59yLMyglUxfeJm8tZrigtlx1db8/m3u8
-#EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/.jpg",NEWS 24 HD
+#EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/.jpg" group-title="Sony-News",NEWS 24 HD
 https://ott.sonyplex.com:444/play/EDI0B4ME7MUUyw-g59yLM9jyWgP_YhBImmAJHUT_WUM/m3u8
-#EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/.jpg",DBC HD
+#EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/.jpg" group-title="Sony-News",DBC HD
 https://ott.sonyplex.com:444/play/EDI0B4ME7MUUyw-g59yLMzycbzR9ihi31TeARGU_zbQ/m3u8
-#EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/.jpg",SOMOY TV
+#EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/.jpg" group-title="Sony-News",SOMOY TV
 https://ott.sonyplex.com:444/play/EDI0B4ME7MUUyw-g59yLM5gBKdSLesC6NQ_wTH8x18c/m3u8
-#EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/.jpg",Ekattor Tv
+#EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/.jpg" group-title="Sony-News",Ekattor Tv
 https://ott.sonyplex.com:444/play/EDI0B4ME7MUUyw-g59yLMzc9TvqxSbG5MzI6NdWNCeg/m3u8
-#EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/.jpg",SONY SPORTS TEN 1
+#EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/.jpg" group-title="Sony-Sports",SONY SPORTS TEN 1
 https://ott.sonyplex.com:444/play/EDI0B4ME7MUUyw-g59yLM4DuEntLv6joJ3fE_sFyQ_4/m3u8
-#EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/.jpg",SONY SPORTS TEN 2
+#EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/.jpg" group-title="Sony-Sports",SONY SPORTS TEN 2
 https://ott.sonyplex.com:444/play/EDI0B4ME7MUUyw-g59yLM32rsQ_wn28eGPLpxEfyrzk/m3u8
-#EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/.jpg",SONY SPORTS TEN 3
+#EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/.jpg" group-title="Sony-Sports",SONY SPORTS TEN 3
 https://ott.sonyplex.com:444/play/EDI0B4ME7MUUyw-g59yLM-WOgOo7Kdui4V8KAKuezhg/m3u8
-#EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/.jpg",SONY SPORTS TEN 5
+#EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/.jpg" group-title="Sony-Sports",SONY SPORTS TEN 5
 https://ott.sonyplex.com:444/play/EDI0B4ME7MUUyw-g59yLM2t3XrdMm96XbAYHLk8umCM/m3u8
-#EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/.jpg",MTV Beats
+#EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/.jpg" group-title="Sony-Music",MTV Beats
 https://ott.sonyplex.com:444/play/EDI0B4ME7MUUyw-g59yLM2eIUHfo7Wmx7A6vlU0pG0M/m3u8
-#EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/.jpg",Gaanbangla HD
+#EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/.jpg" group-title="Sony-Music",Gaanbangla HD
 https://ott.sonyplex.com:444/play/EDI0B4ME7MUUyw-g59yLMy3TCcDZVExKPOIlUu_wq9I/m3u8
-#EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/.jpg",9XM
+#EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/.jpg" group-title="Sony-Music",9XM
 https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/.jpg",Fashion TV
+#EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/.jpg" group-title="Sony-Entertainment",Fashion TV
 https://ott.sonyplex.com:444/play/EDI0B4ME7MUUyw-g59yLM2nCBXYdwoS0_8cjruLeZ4Q/m3u8
-#EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/.jpg",Nick Junior
+#EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/.jpg" group-title="Sony-Kids",Nick Junior
 https://ott.sonyplex.com:444/play/EDI0B4ME7MUUyw-g59yLM-l8hSB4ODWeCN5zy07vIJQ/m3u8
-#EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/.jpg",Nick
+#EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/.jpg" group-title="Sony-Kids",Nick
 https://ott.sonyplex.com:444/play/EDI0B4ME7MUUyw-g59yLM8VvH0tjNYvlrAKxDHS7HOQ/m3u8
-#EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/.jpg",Animal Planet HD
+#EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/.jpg" group-title="Sony-Entertainment",Animal Planet HD
 https://ott.sonyplex.com:444/play/EDI0B4ME7MUUyw-g59yLM0WnE264Q9wT0nQ93EZELXk/m3u8
-#EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/.jpg",ZEE Bollywood
+#EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/.jpg" group-title="Sony-Entertainment",ZEE Bollywood
 https://ott.sonyplex.com:444/play/EDI0B4ME7MUUyw-g59yLM1fwUQNq_KFJHoLhmEl1nFI/m3u8
-#EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/.jpg",ZEE Cinema HD
+#EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/.jpg" group-title="Sony-Entertainment",ZEE Cinema HD
 https://ott.sonyplex.com:444/play/EDI0B4ME7MUUyw-g59yLMyNZRIoDuZq5kOA43Hr0DT8/m3u8
-#EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/.jpg",ZEE TV HD
+#EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/.jpg" group-title="Sony-Entertainment",ZEE TV HD
 https://ott.sonyplex.com:444/play/EDI0B4ME7MUUyw-g59yLM-_t3dWd2TxEk6nRz-HQhB8/m3u8
-#EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/.jpg",Colors Rishtey
+#EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/.jpg" group-title="Sony-Entertainment",Colors Rishtey
 https://ott.sonyplex.com:444/play/EDI0B4ME7MUUyw-g59yLM1D0-CjkEr24TIFOYJn_U5U/m3u8
-#EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/.jpg",Colors Asia
+#EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/.jpg" group-title="Sony-Entertainment",Colors Asia
 https://ott.sonyplex.com:444/play/EDI0B4ME7MUUyw-g59yLM_1IIT9jt-iqDDdn7rUrLMU/m3u8
-#EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/.jpg",SONY SETMAX
+#EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/.jpg" group-title="Sony-Entertainment",SONY SETMAX
 https://ott.sonyplex.com:444/play/EDI0B4ME7MUUyw-g59yLMwtsGBwXOjVPFTPkMGa7G6I/m3u8
-#EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/.jpg",SONY WAH
+#EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/.jpg" group-title="Sony-Entertainment",SONY WAH
 https://ott.sonyplex.com:444/play/EDI0B4ME7MUUyw-g59yLM0mLTHsr4wDF4zb1KwCebpw/m3u8
-#EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/.jpg",SONY MAX 2
+#EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/.jpg" group-title="Sony-Entertainment",SONY MAX 2
 https://ott.sonyplex.com:444/play/EDI0B4ME7MUUyw-g59yLM_wjs-ELc_B1rzMyQalvYaI/m3u8
-#EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/.jpg",SONY PAL
+#EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/.jpg" group-title="Sony-"Entertainment,SONY PAL
 https://ott.sonyplex.com:444/play/EDI0B4ME7MUUyw-g59yLM7Anic6LvjiXTjjHp85OFBo/m3u8
-#EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/.jpg",SONY HD
+#EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/.jpg" group-title="Sony-Entertainment",SONY HD
 https://ott.sonyplex.com:444/play/EDI0B4ME7MUUyw-g59yLM0iBbhjtBo2tG7KDCUjMxmg/m3u8
-#EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/.jpg",Colors Bangla Cinema
+#EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/.jpg" group-title="Sony-Entertainment",Colors Bangla Cinema
 https://ott.sonyplex.com:444/play/EDI0B4ME7MUUyw-g59yLM2jHTZrDbJnuSjhdyau4Vg0/m3u8
-#EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/.jpg",Colors Bangla
+#EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/.jpg" group-title="Sony-Entertainment",Colors Bangla
 https://ott.sonyplex.com:444/play/EDI0B4ME7MUUyw-g59yLM1GjWfVFRYauMnJbUJgrb2Q/m3u8
-#EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/.jpg",Sony Aath
+#EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/.jpg" group-title="Sony-Entertainment",Sony Aath
 https://ott.sonyplex.com:444/play/EDI0B4ME7MUUyw-g59yLM2_MPEBCC-MF7TvEs_l86TY/m3u8
-#EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/.jpg",ZEE BANGLA HD
+#EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/.jpg" group-title="Sony-Entertainment",ZEE BANGLA HD
 https://ott.sonyplex.com:444/play/EDI0B4ME7MUUyw-g59yLM2kJ0CqyNI8M_f_3NpSDOeA/m3u8
-#EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/.jpg",Bijoy Tv
+#EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/.jpg" group-title="Sony-Entertainment",Bijoy Tv
 https://ott.sonyplex.com:444/play/EDI0B4ME7MUUyw-g59yLM0MnXFZiWbrsNN3vfs-K4b4/m3u8
-#EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/.jpg",Nexus TV
+#EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/.jpg" group-title="Sony-News",Nexus TV
 https://ott.sonyplex.com:444/play/EDI0B4ME7MUUyw-g59yLM_BDujkOKBDJfjP-FiSELaQ/m3u8
-#EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/.jpg",Ekhon TV
+#EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/.jpg" group-title="Sony-News",Ekhon TV
 https://ott.sonyplex.com:444/play/EDI0B4ME7MUUyw-g59yLMwQQKxmPufT05vlG7kjq3dI/m3u8
-#EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/.jpg",Ananda TV
+#EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/.jpg" group-title="Sony-News",Ananda TV
 https://ott.sonyplex.com:444/play/EDI0B4ME7MUUyw-g59yLM8Qhun4yRXvUflaB_sAwN4o/m3u8
-#EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/.jpg",ATN BANGLA
+#EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/.jpg" group-title="Sony-News",ATN BANGLA
 https://ott.sonyplex.com:444/play/EDI0B4ME7MUUyw-g59yLM_g8TqqeFgchCzMKhdT527k/m3u8
-#EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/.jpg",Banglavision
+#EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/.jpg" group-title="Sony-News",Banglavision
 https://ott.sonyplex.com:444/play/EDI0B4ME7MUUyw-g59yLMweUZCOcuUU7Nx2vP0ie7A0/m3u8
-#EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/.jpg",MOVIE BANGLA HD
+#EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/.jpg" group-title="Sony-Entertainment",MOVIE BANGLA HD
 https://ott.sonyplex.com:444/play/EDI0B4ME7MUUyw-g59yLM7SAeRQRK-tOaeMtD2Qmu7M/m3u8
-#EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/.jpg",RTV HD
+#EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/.jpg" group-title="Sony-News",RTV HD
 https://ott.sonyplex.com:444/play/EDI0B4ME7MUUyw-g59yLM66SEXUY5m2VRTTtZO86OMU/m3u8
-#EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/.jpg",ASIAN TV HD
+#EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/.jpg" group-title="Sony-News",ASIAN TV HD
 https://ott.sonyplex.com:444/play/EDI0B4ME7MUUyw-g59yLM-05WqMx_fBlbMgiprWy1iw/m3u8
-#EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/.jpg",SATV HD
+#EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/.jpg" group-title="Sony-News",SATV HD
 https://ott.sonyplex.com:444/play/EDI0B4ME7MUUyw-g59yLM6cdy3Fyxmtk4woQI49QGXE/m3u8
-#EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/.jpg",MY TV HD
+#EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/.jpg" group-title="Sony-News",MY TV HD
 https://ott.sonyplex.com:444/play/EDI0B4ME7MUUyw-g59yLM2rgXtKmu7BT93MwjRNp88s/m3u8
-#EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/.jpg",Jamuna TV
+#EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/.jpg" group-title="Sony-News",Jamuna TV
 https://ott.sonyplex.com:444/play/EDI0B4ME7MUUyw-g59yLM254snRdvIrKWmPuqjuigHk/m3u8
-#EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/.jpg",Global TV HD
+#EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/.jpg" group-title="Sony-News",Global TV HD
 https://ott.sonyplex.com:444/play/EDI0B4ME7MUUyw-g59yLM3eG9NtWTRBieGqy4aFre8U/m3u8
-#EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/.jpg",Channel I HD
+#EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/.jpg" group-title="Sony-News",Channel I HD
 https://ott.sonyplex.com:444/play/EDI0B4ME7MUUyw-g59yLMwOxRUY-maH-Vk_qOJEaJxg/m3u8
-#EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/.jpg",Deepto TV HD
+#EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/.jpg" group-title="Sony-News",Deepto TV HD
 https://ott.sonyplex.com:444/play/EDI0B4ME7MUUyw-g59yLM6msf1SSuuDXgphmsBBnNHs/m3u8
-#EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/.jpg",MAASRANGA HD
+#EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/.jpg" group-title="Sony-News",MAASRANGA HD
 https://ott.sonyplex.com:444/play/EDI0B4ME7MUUyw-g59yLM0EYZFpbYzWflwzOUv40VOY/m3u8
-#EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/.jpg",&TV
+#EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/.jpg" group-title="Sony-Entertainment",&TV
 https://ott.sonyplex.com:444/play/EDI0B4ME7MUUyw-g59yLM4BB8SgPeb1NHvUsua5pXEg/m3u8
