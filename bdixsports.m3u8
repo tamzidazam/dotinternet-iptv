@@ -1,1 +1,23 @@
-
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/.jpg",ATN Bangla
+http://bangla.bdixsports.live:1935/tv/atnbangla/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/.jpg",Channel I
+http://bangla.bdixsports.live:1935/tv/channeli/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/.jpg",Bangla Vision
+http://bangla.bdixsports.live:1935/tv/banglavision/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/.jpg",Somoy TV
+http://bangla.bdixsports.live:1935/tv/somoytv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/.jpg",Jamuna TV
+http://bangla.bdixsports.live:1935/tv/jamuna/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/.jpg",Channel 24
+http://bangla.bdixsports.live:1935/tv/channel24/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/.jpg",DBC News
+http://bangla.bdixsports.live:1935/tv/dbcnews/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/.jpg",News 24
+http://bangla.bdixsports.live:1935/tv/news24/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/.jpg",Deepto TV
+http://bangla.bdixsports.live:1935/tv/deeptotv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/.jpg",RTV
+http://bangla.bdixsports.live:1935/tv/rtv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/.jpg",Boishakhi TV
+http://bangla.bdixsports.live:1935/tv/boishakhitv/playlist.m3u8
