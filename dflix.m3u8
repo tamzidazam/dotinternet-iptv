@@ -1,2 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/tsports.jpg" group-title="FTPBD-Sports",[FTPBD] TSports=
+#EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/gazi.jpg" group-title="",[FTPBD] Gazi TV
+http://on-play.discoveryftp.net/stream/LXCMzuOMnjwU6GbP4GslEg/1701387632/dflix-ondemand/index.m3u8
+
