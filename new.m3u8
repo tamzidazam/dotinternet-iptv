@@ -1,0 +1,163 @@
+#EXTM3U
+#EXTINF:-1 group-title="Jagobd",EKUSHEY TV (1)
+http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
+#EXTINF:-1 group-title="LIVE TV",SE | Discovery TV
+http://103.141.2.37:25461/web/web/540
+#EXTINF:-1 group-title="LIVE TV",Pictures HD
+http://103.141.2.37:25461/web/web/543
+#EXTINF:-1 group-title="LIVE TV",Colors HD
+http://103.141.2.37:25461/web/web/544
+#EXTINF:-1 group-title="LIVE TV",Zee Cinema HD
+http://103.141.2.37:25461/web/web/545
+#EXTINF:-1 group-title="LIVE TV",Star Plus
+http://103.141.2.37:25461/web/web/546
+#EXTINF:-1 group-title="LIVE TV",Colors Cineplex
+http://103.141.2.37:25461/web/web/547
+#EXTINF:-1 group-title="LIVE TV",Sony
+http://103.141.2.37:25461/web/web/551
+#EXTINF:-1 group-title="LIVE TV",Sony Max HD
+http://103.141.2.37:25461/web/web/552
+#EXTINF:-1 group-title="LIVE TV",Zee TV
+http://103.141.2.37:25461/web/web/553
+#EXTINF:-1 group-title="LIVE TV",Star Gold
+http://103.141.2.37:25461/web/web/555
+#EXTINF:-1 group-title="LIVE TV",9XM
+http://103.141.2.37:25461/web/web/557
+#EXTINF:-1 group-title="LIVE TV",DHIN
+http://103.141.2.37:25461/web/web/560
+#EXTINF:-1 group-title="LIVE TV",Sony Pix HD
+http://103.141.2.37:25461/web/web/561
+#EXTINF:-1 group-title="LIVE TV",Movies NOW
+http://103.141.2.37:25461/web/web/562
+#EXTINF:-1 group-title="LIVE TV",Star Movies
+http://103.141.2.37:25461/web/web/563
+#EXTINF:-1 group-title="LIVE TV",Animal Planent
+http://103.141.2.37:25461/web/web/566
+#EXTINF:-1 group-title="LIVE TV",DISCOVERY
+http://103.141.2.37:25461/web/web/567
+#EXTINF:-1 group-title="LIVE TV",NAT_GEO_HD
+http://103.141.2.37:25461/web/web/568
+#EXTINF:-1 group-title="LIVE TV",TLC
+http://103.141.2.37:25461/web/web/569
+#EXTINF:-1 group-title="LIVE TV",BBC WORLD
+http://103.141.2.37:25461/web/web/573
+#EXTINF:-1 group-title="LIVE TV",STAR WORLD HD
+http://103.141.2.37:25461/web/web/575
+#EXTINF:-1 group-title="LIVE TV",WILD
+http://103.141.2.37:25461/web/web/576
+#EXTINF:-1 group-title="LIVE TV",Sony SIX HD
+http://103.141.2.37:25461/web/web/577
+#EXTINF:-1 group-title="LIVE TV",Star Sports3
+http://103.141.2.37:25461/web/web/578
+#EXTINF:-1 group-title="LIVE TV",Ster Sports 1 HD
+http://103.141.2.37:25461/web/web/580
+#EXTINF:-1 group-title="LIVE TV",Sony Ten3
+http://103.141.2.37:25461/web/web/582
+#EXTINF:-1 group-title="LIVE TV",Select2
+http://103.141.2.37:25461/web/web/583
+#EXTINF:-1 group-title="LIVE TV",Sony_Ten_2
+http://103.141.2.37:25461/web/web/584
+#EXTINF:-1 group-title="LIVE TV",Sony_Ten_1
+http://103.141.2.37:25461/web/web/585
+#EXTINF:-1 group-title="LIVE TV",Ten_Sports
+http://103.141.2.37:25461/web/web/587
+#EXTINF:-1 group-title="LIVE TV",SPORTS 18
+http://103.141.2.37:25461/web/web/588
+#EXTINF:-1 group-title="LIVE TV",Sun Bangla
+http://103.141.2.37:25461/web/web/589
+#EXTINF:-1 group-title="LIVE TV",Independent
+http://103.141.2.37:25461/web/web/590
+#EXTINF:-1 group-title="LIVE TV",Sony_Aath
+http://103.141.2.37:25461/web/web/591
+#EXTINF:-1 group-title="LIVE TV",GTV
+http://103.141.2.37:25461/web/web/592
+#EXTINF:-1 group-title="LIVE TV",Channel I
+http://103.141.2.37:25461/web/web/595
+#EXTINF:-1 group-title="LIVE TV",Maasranga
+http://103.141.2.37:25461/web/web/596
+#EXTINF:-1 group-title="LIVE TV",Somoy TV
+http://103.141.2.37:25461/web/web/597
+#EXTINF:-1 group-title="LIVE TV",Zee_Bangla_Cinema
+http://103.141.2.37:25461/web/web/598
+#EXTINF:-1 group-title="LIVE TV",Colore Bangla Cinema
+http://103.141.2.37:25461/web/web/599
+#EXTINF:-1 group-title="LIVE TV",Colors Bangla
+http://103.141.2.37:25461/web/web/601
+#EXTINF:-1 group-title="LIVE TV",Zee Bangla HD
+http://103.141.2.37:25461/web/web/602
+#EXTINF:-1 group-title="LIVE TV",Star Jalsha
+http://103.141.2.37:25461/web/web/603
+#EXTINF:-1 group-title="LIVE TV",Sangeet
+http://103.141.2.37:25461/web/web/604
+#EXTINF:-1 group-title="LIVE TV",Enterr 10
+http://103.141.2.37:25461/web/web/606
+#EXTINF:-1 group-title="LIVE TV",ATN TV
+http://103.141.2.37:25461/web/web/612
+#EXTINF:-1 group-title="LIVE TV",Nick
+http://103.141.2.37:25461/web/web/615
+#EXTINF:-1 group-title="LIVE TV",CN
+http://103.141.2.37:25461/web/web/616
+#EXTINF:-1 group-title="Backup",GTV-1
+http://172.27.27.3:8088/hls/01_Gazitv.m3u8
+#EXTINF:-1 group-title="Backup",T Sports
+http://172.27.27.3:8088/hls/02_IndependentTv.m3u8
+#EXTINF:-1 group-title="Backup",Sony Ten 1
+http://172.27.27.3:8088/hls/03_Sonyten1.m3u8
+#EXTINF:-1 group-title="Backup",Sony Ten 2
+http://172.27.27.3:8088/hls/04_Sonyten2.m3u8
+#EXTINF:-1 group-title="Backup",Star Sports 1
+http://172.27.27.3:8088/hls/07_StarSports1.m3u8
+#EXTINF:-1 group-title="Backup",Star Sports Select 2
+http://172.27.27.3:8088/hls/08StarSports2.m3u8
+#EXTINF:-1 group-title="Backup",PTV Sports
+http://172.27.27.3:8088/hls/15_ptv_sports.m3u8
+#EXTINF:-1 group-title="Backup",Zee Bangla HD Backup
+http://172.27.27.3:8088/hls/12_ZeeBangla.m3u8
+#EXTINF:-1 group-title="Backup",Star Jalsha Backup
+http://172.27.27.3:8088/hls/10_StarJalsha.m3u8
+#EXTINF:-1 group-title="Backup",Sony Max Backup
+http://172.27.27.3:8088/hls/14_SonyMax.m3u8
+#EXTINF:-1 group-title="Backup",Star Plus Backup
+http://172.27.27.3:8088/hls/09_StarPlus.m3u8
+#EXTINF:-1 group-title="Old BDIX",Astro Cricket
+http://208.86.19.13:81/720.stream/index.m3u8
+#EXTINF:-1 group-title="Old BDIX",Max Hd
+http://208.86.19.13:81/706.stream/index.m3u8
+#EXTINF:-1 group-title="DIRECT-TV",STAR PLUS HD (IN)
+http://144.217.70.181:9587/hin2/STARPLUSUK/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:-1 group-title="DIRECT-TV",STAR BHARAT HD (IN)
+http://144.217.70.181:9587/hin2/STARBHARATUK/playlist.m3u8?token=test
+#EXTINF:-1 group-title="DIRECT-TV",STAR PLUS HD (IN)
+http://144.217.70.181:9587/hin2/STARPLUSHD/index.m3u8?token=test
+#EXTINF:-1 group-title="DIRECT-TV",ZEE TV (UK)
+http://144.217.70.181:9587/hin2/ZEETVUK/playlist.m3u8?token=test
+#EXTINF:-1 group-title="DIRECT-TV",ZEE TV HD (IN)
+http://144.217.70.181:9587/hin2/ZEETVHD/index.m3u8?token=test
+#EXTINF:-1 group-title="DIRECT-TV",COLORS HD (IN)
+http://144.217.70.181:9587/hin2/COLORSHD/index.m3u8?token=test
+#EXTINF:-1 group-title="DIRECT-TV",COLORS HD (IN)
+http://144.217.70.181:9587/hin2/COLORSUK/index.m3u8?token=test
+#EXTINF:-1 group-title="DIRECT-TV",UTV HD (IN)
+http://144.217.70.181:9587/hin2/UTVMOVIESHD/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:-1 group-title="DIRECT-TV",STAR GOLD HD (IN)
+http://144.217.70.181:9587/hin2/STARGOLDUK/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:-1 group-title="DIRECT-TV",STAR GOLD 2 (IN)
+http://144.217.70.181:9587/hin2/STARGOLD2/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:-1 group-title="DIRECT-TV",SONY MAX 2 (IN)
+http://144.217.70.181:9587/hin2/SONYMAX2/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:-1 group-title="DIRECT-TV",B4U MOVIES (IN)
+http://144.217.70.181:9587/hin2/B4UMOVIES/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:-1 group-title="DIRECT-TV",E24 (IN)
+http://144.217.70.181:9587/hin2/E24/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:-1 group-title="DIRECT-TV",B4U MUSIC (IN)
+http://144.217.70.181:9587/hin2/B4UMUSIC/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:-1 group-title="DIRECT-TV",MTV (IN)
+http://144.217.70.181:9587/hin2/MTVINDIA/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:-1 group-title="DIRECT-TV",MTV BEATS HD (IN)
+http://144.217.70.181:9587/hin2/MTVBEATSHD/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:-1 group-title="DIRECT-TV",B4U MOVIES (UK)
+http://144.217.70.181:9587/hin2/B4UMOVIESUK/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:-1 group-title="kitv",Channel TT
+https://2-fss-2.themediacdn.com/pl_118/amlst:201982-1318992/playlist.m3u8
+#EXTINF:-1 group-title="kitv",itv
+http://162.244.81.142:1935/live/livestream/playlist.m3u8
