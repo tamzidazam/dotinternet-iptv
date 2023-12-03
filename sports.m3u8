@@ -2,7 +2,7 @@
 #EXTINF:-1 ,Gazi TV(BD)
 http://113.212.111.246:8080/hls/col2.m3u8
 #EXTINF:-1 ,T-Sports 1080
-http://g4b.alwaysdata.net/tsports1080p.m3u8
+http://113.212.111.246:8080/hls/col12.m3u8
 #EXTINF:-1 ,EDGESport (1080p)
 https://edgesports-sportstribal.amagi.tv/playlist.m3u8
 #EXTINF:-1 ,aspor 🇹🇷
