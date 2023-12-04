@@ -1,13 +1,15 @@
 #EXTM3U
-#EXTINF:-1,Animal PlanetHD-Rs5
+#EXTINF:-1,T-Sports
+https://live.himel-himu@1rdk.short.gy/TSports-HD-Bdix/hls/Himel-Op.m3u8
+#EXTINF:-1,Animal PlanetHD
 http://95.111.193.211:8106/play/a00b/index.m3u8
-#EXTINF:-1,Colors HD-Rs 19
+#EXTINF:-1,Colo HD
 http://95.111.193.211:8106/play/a00j/index.m3u8
-#EXTINF:-1,Discovery HD-Rs8
+#EXTINF:-1,Discovery HD
 http://95.111.193.211:8106/play/a00q/index.m3u8
-#EXTINF:-1,EUROSPORT HD-Rs 5.50
+#EXTINF:-1,EUROSPORT HD
 http://95.111.193.211:8106/play/a00m/index.m3u8
-#EXTINF:-1,FOX Life HD-Rs 2
+#EXTINF:-1,FOX Life HD
 http://95.111.193.211:8106/play/a025/index.m3u8
 #EXTINF:-1,HBO Family
 http://95.111.193.211:8106/play/a01b/index.m3u8
@@ -15,43 +17,43 @@ http://95.111.193.211:8106/play/a01b/index.m3u8
 http://95.111.193.211:8106/play/a018/index.m3u8
 #EXTINF:-1,HBO Signature
 http://95.111.193.211:8106/play/a01a/index.m3u8
-#EXTINF:-1,Nat Geo HD-Rs14
+#EXTINF:-1,Nat Geo HD
 http://95.111.193.211:8106/play/a00p/index.m3u8
-#EXTINF:-1,NatGeo Wild HD-Rs8
+#EXTINF:-1,NatGeo Wild HD
 http://95.111.193.211:8106/play/a00y/index.m3u8
-#EXTINF:-1,SET HD - Rs 19
+#EXTINF:-1,SET HD
 http://95.111.193.211:8106/play/a00l/index.m3u8
-#EXTINF:-1,SONY AATH- Rs 5.50
+#EXTINF:-1,SONY AATH
 http://95.111.193.211:8106/play/a010/index.m3u8
-#EXTINF:-1,SONY MAX HD -Rs 19
+#EXTINF:-1,SONY MAX HD 
 http://95.111.193.211:8106/play/a00x/index.m3u8
-#EXTINF:-1,STAR JALSHA HD-Rs19
+#EXTINF:-1,STAR JALSHA HD
 http://95.111.193.211:8106/play/a003/index.m3u8
-#EXTINF:-1,STAR MOVIES HD-Rs19
+#EXTINF:-1,STAR MOVIES HD
 http://95.111.193.211:8106/play/a00o/index.m3u8
 #EXTINF:-1,STAR SPORTS S2 HD
 http://95.111.193.211:8106/play/a017/index.m3u8
-#EXTINF:-1,Sony Ten 1 HD-Rs19
+#EXTINF:-1,Sony Ten 1 HD
 http://95.111.193.211:8106/play/a00v/index.m3u8
-#EXTINF:-1,Sports18 1 HD-Rs10
+#EXTINF:-1,Sports18 1 HD
 http://95.111.193.211:8106/play/a00n/index.m3u8
-#EXTINF:-1,Star GOLD HD -Rs 19
+#EXTINF:-1,Star GOLD HD
 http://95.111.193.211:8106/play/a00c/index.m3u8
-#EXTINF:-1,Star Plus HD -Rs 19
+#EXTINF:-1,Star Plus HD
 http://95.111.193.211:8106/play/a00i/index.m3u8
-#EXTINF:-1,StarSportSL1HD-Rs19
+#EXTINF:-1,StaportSL1HD
 http://95.111.193.211:8106/play/a00f/index.m3u8
-#EXTINF:-1,StarSports1 HD-Rs19
+#EXTINF:-1,Staports1 HD
 http://95.111.193.211:8106/play/a00t/index.m3u8
-#EXTINF:-1,StarSports2 HD-Rs19
+#EXTINF:-1,Staports2 HD
 http://95.111.193.211:8106/play/a00u/index.m3u8
-#EXTINF:-1,Sun Bangla - Free
+#EXTINF:-1,Sun Bangla
 http://95.111.193.211:8106/play/a00z/index.m3u8
-#EXTINF:-1,Travelxp- Rs 3
+#EXTINF:-1,Travelxp
 http://95.111.193.211:8106/play/a01o/index.m3u8
-#EXTINF:-1,ZEE BANGLA HD-Rs 19
+#EXTINF:-1,ZEE BANGLA HD- 19
 http://95.111.193.211:8106/play/a00e/index.m3u8
-#EXTINF:-1,colorsBanglaHD-Rs14
+#EXTINF:-1,coloBanglaHD-14
 http://95.111.193.211:8106/play/a00s/index.m3u8
-#EXTINF:-1,nick HD+- Rs 10
+#EXTINF:-1,nick HD+-  10
 http://95.111.193.211:8106/play/a00h/index.m3u8
