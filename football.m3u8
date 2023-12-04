@@ -1,0 +1,179 @@
+#EXTM3U
+#EXTINF:-1 ,Bein Sports 4 HD
+http://node01.nntv.az:8153/ch3/ch3.hi.m3u8
+#EXTINF:-1 ,Bein Sports 5 HD
+http://node01.nntv.az:8153/ch4/ch4.hi.m3u8
+#EXTINF:-1 ,Bein Sports 6 HD
+http://node01.nntv.az:8153/ch5/ch5.hi.m3u8
+#EXTINF:-1 ,Bein Sports 7 HD
+http://node01.nntv.az:8153/ch6/ch6.hi.m3u8
+#EXTINF:-1 ,Bein Sports 3XTRA HD
+http://node01.nntv.az:8153/ch2/ch2.hi.m3u8
+#EXTINF:-1 ,BeIN Sport 1 HD
+http://nl.seetv.cc/play/1101/C94BDA70C92CDB2/video.m3u8
+#EXTINF:-1 ,BeIN Sport 2 HD
+http://nl.seetv.cc/play/1102/C94BDA70C92CDB2/video.m3u8
+#EXTINF:-1 ,BeIN Sport 3 HD
+http://nl.seetv.cc/play/1103/C94BDA70C92CDB2/video.m3u8
+#EXTINF:-1 ,BeIN Sport 4 HD
+http://nl.seetv.cc/play/1104/C94BDA70C92CDB2/video.m3u8
+#EXTINF:-1 ,BeIN Sport 5 HD
+http://nl.seetv.cc/play/1105/C94BDA70C92CDB2/video.m3u8
+#EXTINF:-1 ,BeIN Sport 6 HD
+http://nl.seetv.cc/play/1106/C94BDA70C92CDB2/video.m3u8
+#EXTINF:-1 ,BT Sport 1
+http://nl.seetv.cc/play/922/C94BDA70C92CDB2/video.m3u8
+#EXTINF:-1 ,BT Sport 2 HD
+http://nl.seetv.cc/play/923/C94BDA70C92CDB2/video.m3u8
+#EXTINF:-1 ,Premier Sports 1 HD
+http://nl.seetv.cc/play/930/C94BDA70C92CDB2/video.m3u8
+#EXTINF:-1 ,Premier Sports 2 HD
+http://nl.seetv.cc/play/929/C94BDA70C92CDB2/video.m3u8
+#EXTINF:-1 ,Sky Sport 1 HD DE
+http://nl.seetv.cc/play/833/C94BDA70C92CDB2/video.m3u8
+#EXTINF:-1 ,Sky Sport 2 HD DE
+http://nl.seetv.cc/play/834/C94BDA70C92CDB2/video.m3u8
+#EXTINF:-1 ,Sky Sport Bundesliga 1 HD DE
+http://nl.seetv.cc/play/836/C94BDA70C92CDB2/video.m3u8
+#EXTINF:-1 ,Sky Sport Austria HD DE
+http://nl.seetv.cc/play/5129/C94BDA70C92CDB2/video.m3u8
+#EXTINF:-1 ,Sky Sport News HD DE
+http://nl.seetv.cc/play/832/C94BDA70C92CDB2/video.m3u8
+#EXTINF:-1 ,SKY Sports F1
+http://nl.seetv.cc/play/9923/C94BDA70C92CDB2/video.m3u8
+#EXTINF:-1 ,Sport 1 HD DE
+http://nl.seetv.cc/play/818/C94BDA70C92CDB2/video.m3u8
+#EXTINF:-1 ,DAZN 1 DE
+http://nl.seetv.cc/play/3556/C94BDA70C92CDB2/video.m3u8
+#EXTINF:-1 ,DAZN 2 DE
+http://nl.seetv.cc/play/3557/C94BDA70C92CDB2/video.m3u8
+#EXTINF:-1 ,ONE HD
+http://nl.seetv.cc/play/1506/C94BDA70C92CDB2/video.m3u8
+#EXTINF:-1 ,ONE 2 HD
+http://nl.seetv.cc/play/6915/C94BDA70C92CDB2/video.m3u8
+#EXTINF:-1 ,Sport 1 HD
+http://nl.seetv.cc/play/1522/C94BDA70C92CDB2/video.m3u8
+#EXTINF:-1 ,Sport  2 HD
+http://nl.seetv.cc/play/1521/C94BDA70C92CDB2/video.m3u8
+#EXTINF:-1 ,Sport 3 HD
+http://nl.seetv.cc/play/1565/C94BDA70C92CDB2/video.m3u8
+#EXTINF:-1 ,Sport 4 HD
+http://nl.seetv.cc/play/1566/C94BDA70C92CDB2/video.m3u8
+#EXTINF:-1 ,Sport 5 HD
+http://nl.seetv.cc/play/1507/C94BDA70C92CDB2/video.m3u8
+#EXTINF:-1 ,Sport 5 Stars HD
+http://nl.seetv.cc/play/6916/C94BDA70C92CDB2/video.m3u8
+#EXTINF:-1 ,Sport 5 Gold
+http://nl.seetv.cc/play/6923/C94BDA70C92CDB2/video.m3u8
+#EXTINF:-1 ,Sport  5 Plus HD
+http://nl.seetv.cc/play/6924/C94BDA70C92CDB2/video.m3u8
+#EXTINF:-1 ,Sport 5 Live HD
+http://nl.seetv.cc/play/1531/C94BDA70C92CDB2/video.m3u8
+#EXTINF:-1 ,Sport BundesLiga
+http://nl.seetv.cc/play/5666/C94BDA70C92CDB2/video.m3u8
+#EXTINF:-1 ,Movistar Formula 1
+http://nl.seetv.cc/play/1121/C94BDA70C92CDB2/video.m3u8
+#EXTINF:-1 ,Diema Sport
+http://nl.seetv.cc/play/6830/C94BDA70C92CDB2/video.m3u8
+#EXTINF:-1 ,Diema Sport 2
+http://nl.seetv.cc/play/6831/C94BDA70C92CDB2/video.m3u8
+#EXTINF:-1 ,Diema Sport 3
+http://nl.seetv.cc/play/6832/C94BDA70C92CDB2/video.m3u8
+#EXTINF:-1 ,Max Sport 1 HD
+http://nl.seetv.cc/play/6875/C94BDA70C92CDB2/video.m3u8
+#EXTINF:-1 ,Max Sport 2 HD
+http://nl.seetv.cc/play/6876/C94BDA70C92CDB2/video.m3u8
+#EXTINF:-1 ,Max Sport 3 HD
+http://nl.seetv.cc/play/6877/C94BDA70C92CDB2/video.m3u8
+#EXTINF:-1 ,Max Sport 4 HD
+http://nl.seetv.cc/play/6878/C94BDA70C92CDB2/video.m3u8
+#EXTINF:-1 ,Nova Sport
+http://nl.seetv.cc/play/6827/C94BDA70C92CDB2/video.m3u8
+#EXTINF:-1 ,Ring
+http://nl.seetv.cc/play/6828/C94BDA70C92CDB2/video.m3u8
+#EXTINF:-1 ,���3
+http://nl.seetv.cc/play/6825/C94BDA70C92CDB2/video.m3u8
+#EXTINF:-1 ,Digi sport 1 HD
+http://nl.seetv.cc/play/11068/C94BDA70C92CDB2/video.m3u8
+#EXTINF:-1 ,Digi sport 2 HD
+http://nl.seetv.cc/play/11069/C94BDA70C92CDB2/video.m3u8
+#EXTINF:-1 ,DIGI Sport 3 HD RO
+http://nl.seetv.cc/play/11145/C94BDA70C92CDB2/video.m3u8
+#EXTINF:-1 ,Digi sport 3
+http://nl.seetv.cc/play/11070/C94BDA70C92CDB2/video.m3u8
+#EXTINF:-1 ,Digi sport 4
+http://nl.seetv.cc/play/11071/C94BDA70C92CDB2/video.m3u8
+#EXTINF:-1 ,Digi24
+http://nl.seetv.cc/play/11072/C94BDA70C92CDB2/video.m3u8
+#EXTINF:-1 ,Look Sport RO
+http://nl.seetv.cc/play/11147/C94BDA70C92CDB2/video.m3u8
+#EXTINF:-1 ,Eurosport 2
+http://nl.seetv.cc/play/11081/C94BDA70C92CDB2/video.m3u8
+#EXTINF:-1 ,Eurosport 2 HD
+http://nl.seetv.cc/play/11082/C94BDA70C92CDB2/video.m3u8
+#EXTINF:-1 ,Nova Sport HD
+http://nl.seetv.cc/play/1122/C94BDA70C92CDB2/video.m3u8
+#EXTINF:-1 ,Fox Sport 1 HD
+http://nl.seetv.cc/play/6046/C94BDA70C92CDB2/video.m3u8
+#EXTINF:-1 ,Fox Sport 2 HD
+http://nl.seetv.cc/play/6047/C94BDA70C92CDB2/video.m3u8
+#EXTINF:-1 ,ESPN HD
+http://nl.seetv.cc/play/6252/C94BDA70C92CDB2/video.m3u8
+#EXTINF:-1 ,ESPN 2
+http://nl.seetv.cc/play/6253/C94BDA70C92CDB2/video.m3u8
+#EXTINF:-1 ,TVP Sport HD
+http://nl.seetv.cc/play/1910/C94BDA70C92CDB2/video.m3u8
+#EXTINF:-1 ,Fightklub HD PL
+http://nl.seetv.cc/play/1905/C94BDA70C92CDB2/video.m3u8
+#EXTINF:-1 ,Eleven Sports 1 HD
+http://nl.seetv.cc/play/1904/C94BDA70C92CDB2/video.m3u8
+#EXTINF:-1 ,Eleven Sports 2 HD
+http://nl.seetv.cc/play/1903/C94BDA70C92CDB2/video.m3u8
+#EXTINF:-1 ,Eleven Sports 3 HD
+http://nl.seetv.cc/play/5445/C94BDA70C92CDB2/video.m3u8
+#EXTINF:-1 ,Eleven Sports 4 HD
+http://nl.seetv.cc/play/5446/C94BDA70C92CDB2/video.m3u8
+#EXTINF:-1 ,CANAL+ Sport 1 HD PL
+http://nl.seetv.cc/play/5460/C94BDA70C92CDB2/video.m3u8
+#EXTINF:-1 ,CANAL+ Sport 2 HD PL
+http://nl.seetv.cc/play/1901/C94BDA70C92CDB2/video.m3u8
+#EXTINF:-1 ,CANAL+ Sport 3 HD PL
+http://nl.seetv.cc/play/5462/C94BDA70C92CDB2/video.m3u8
+#EXTINF:-1 ,CANAL+ Sport 4 HD PL
+http://nl.seetv.cc/play/5463/C94BDA70C92CDB2/video.m3u8
+#EXTINF:-1 ,CANAL+ Sport 5 HD PL
+http://nl.seetv.cc/play/5464/C94BDA70C92CDB2/video.m3u8
+#EXTINF:-1 ,Eurosport 1 HD PL
+http://nl.seetv.cc/play/5453/C94BDA70C92CDB2/video.m3u8
+#EXTINF:-1 ,Eurosport 2 HD PL
+http://nl.seetv.cc/play/5454/C94BDA70C92CDB2/video.m3u8
+#EXTINF:-1 ,FightBox HD
+http://nl.seetv.cc/play/5467/C94BDA70C92CDB2/video.m3u8
+#EXTINF:-1 ,Extreme Sport
+http://nl.seetv.cc/play/5469/C94BDA70C92CDB2/video.m3u8
+#EXTINF:-1 ,Polsat Sport News
+http://nl.seetv.cc/play/5455/C94BDA70C92CDB2/video.m3u8
+#EXTINF:-1 ,Polsat Sport
+http://nl.seetv.cc/play/5456/C94BDA70C92CDB2/video.m3u8
+#EXTINF:-1 ,Polsat Sport Extra
+http://nl.seetv.cc/play/5457/C94BDA70C92CDB2/video.m3u8
+#EXTINF:-1 ,Polsat Sport Fight
+http://nl.seetv.cc/play/5458/C94BDA70C92CDB2/video.m3u8
+#EXTINF:-1 ,Polsat Sport Premium 1 HD
+http://nl.seetv.cc/play/5447/C94BDA70C92CDB2/video.m3u8
+#EXTINF:-1 ,Polsat Sport Premium 2 HD
+http://nl.seetv.cc/play/5448/C94BDA70C92CDB2/video.m3u8
+#EXTINF:-1 ,Polsat Sport Premium 3 HD
+http://nl.seetv.cc/play/5449/C94BDA70C92CDB2/video.m3u8
+#EXTINF:-1 ,Polsat Sport Premium 4 HD
+http://nl.seetv.cc/play/5450/C94BDA70C92CDB2/video.m3u8
+#EXTINF:-1 ,Polsat Sport Premium 5 HD
+http://nl.seetv.cc/play/5451/C94BDA70C92CDB2/video.m3u8
+#EXTINF:-1 ,Polsat Sport Premium 6 HD
+http://nl.seetv.cc/play/5452/C94BDA70C92CDB2/video.m3u8
+#EXTINF:-1 ,VIAPLAY
+https://d3j7ofexbkp7q4.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-bl5ti7t9yiazp-ssai-prd/master.m3u8
+#EXTINF:-1 ,���� hd
+http://94.230.240.17:8080/machtv/index.m3u8
+#EXTINF:-1 ,Private HD(18+)
+http://194.145.202.71:8087/udp/239.254.1.38:6060

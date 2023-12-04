@@ -1,0 +1,25 @@
+#EXTM3U
+#EXTINF:-1,Animal Planet HD
+https://mhdtvworld.me/delta/discovery/api/Animal_Planettv_Hindi.m3u8
+#EXTINF:-1,Discovery Kids Hindi
+https://mhdtvworld.me/delta/discovery/api/Discovery_Kids_Hindi.m3u8
+#EXTINF:-1,Discovery Bangla
+https://mhdtvworld.me/delta/discovery/api/Discovery_Bangla.m3u8
+#EXTINF:-1,Discovery Science
+https://mhdtvworld.me/delta/discovery/api/Discovery_Science.m3u8
+#EXTINF:-1,Investigation Discovery HD
+https://mhdtvworld.me/delta/discovery/api/Investigation_Discovery.m3u8
+#EXTINF:-1,Discovery Turbo
+https://mhdtvworld.me/delta/discovery/api/Discovery_Turbo.m3u8
+#EXTINF:-1,DMAX
+https://mhdtvworld.me/delta/discovery/api/DMAX.m3u8
+#EXTINF:-1,HGTV
+https://mhdtvworld.me/delta/discovery/api/HGTV.m3u8
+#EXTINF:-1,TRVL Channel
+https://mhdtvworld.me/delta/discovery/api/TRVL_Channel.m3u8
+#EXTINF:-1,TLC HD
+https://mhdtvworld.me/delta/discovery/api/TLC.m3u8
+#EXTINF:-1,Food Network
+https://mhdtvworld.me/delta/discovery/api/Food%20Network.m3u8
+#EXTINF:-1,Eurosport HD
+https://mhdtvworld.me/delta/discovery/api/Eurosport.m3u8
