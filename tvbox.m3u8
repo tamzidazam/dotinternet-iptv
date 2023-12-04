@@ -1,0 +1,71 @@
+#EXTM3U
+#EXTINF:-1 ,9. Bijoy tv HD
+http://livetvbox.live:8080/live/Juan/Juan/408.ts
+#EXTINF:-1 ,10. Satv HD
+http://livetvbox.live:8080/live/Juan/Juan/3814.ts
+#EXTINF:-1 ,11. Doranto HD
+http://livetvbox.live:8080/live/Juan/Juan/433.ts
+#EXTINF:-1 group-title="BDIX",12. Channel-9 HD
+http://livetvbox.live:8080/live/Juan/Juan/434.ts
+#EXTINF:-1 group-title="BDIX",13. Mytv HD
+http://livetvbox.live:8080/live/Juan/Juan/398.ts
+#EXTINF:-1 group-title="BDIX",14. Ntv HD
+http://tv.cloudcdn.me/live.ts?channelId=109&uid=5060&deviceMac=00:1A:79:73:9C:A1
+#EXTINF:-1 group-title="BDIX",15. NRB TV HD
+http://livetvbox.live:8080/live/Juan/Juan/1000.ts
+#EXTINF:-1 group-title="BDIX",16. GTV HD
+http://livetvbox.live:8080/live/Juan/Juan/767.ts
+#EXTINF:-1 group-title="BDIX",18. Nexus TV HD
+http://livetvbox.live:8080/live/Juan/Juan/411.ts
+#EXTINF:-1 group-title="BDIX",19. DESH TV
+http://galaxyiptv.pro:8080/asimbutt/000423/178396
+#EXTINF:-1 group-title="BDIX",20. MOHANA TV HD
+http://livetvbox.live:8080/live/Juan/Juan/397.ts
+#EXTINF:-1 group-title="BDIX",21. Bangla tv HD
+http://galaxyiptv.pro:8080/asimbutt/000423/178405
+#EXTINF:-1 group-title="BDIX",34. Biswa-Bangla HD
+http://176.119.29.52/live.ts?channelId=90253&uid=5060&deviceMac=00:1A:79:73:9C:A1
+#EXTINF:-1 group-title="BDIX",35. Ekattor TV HD
+http://livetvbox.live:8080/live/Juan/Juan/428.ts
+#EXTINF:-1 group-title="BDIX",37. Ananda-TV
+http://livetvbox.live:8080/live/Juan/Juan/399.ts
+#EXTINF:-1 group-title="BDIX",38. ETV BANGLA
+http://galaxyiptv.pro:8080/asimbutt/000423/178418
+#EXTINF:-1 ,39. Atn News Bangla
+http://176.119.29.52/live.ts?channelId=83&uid=5060&deviceMac=00:1A:79:73:9C:A1
+#EXTINF:-1 group-title="BDIX",42. Peace-tv-Bangla
+http://176.119.29.52/live.ts?channelId=237&uid=3702&deviceMac=00:1A:79:3B:33:26
+#EXTINF:-1 group-title="BDIX",44. RTV Music HD
+https://sagar-live.msr-sagar.repl.co/video/WBMGKDN-AIo.m3u8
+#EXTINF:-1 group-title="BDIX",45. itv Bangla
+http://livetvbox.live:8080/live/Juan/Juan/999.ts
+#EXTINF:-1 group-title="BDIX",46. Gan Bangla HD
+http://livetvbox.live:8080/live/Juan/Juan/3807.ts
+#EXTINF:-1 group-title="BDIX",47. Global Tv HD
+http://livetvbox.live:8080/live/Juan/Juan/4231.ts
+#EXTINF:-1 group-title="BDIX",48. Channel-S HD
+http://livetvbox.live:8080/live/Juan/Juan/393.ts
+#EXTINF:-1 group-title="BDIX",49. DESHI TV
+http://livetvbox.live:8080/live/Juan/Juan/414.ts
+#EXTINF:-1 group-title="BDIX",50. Star Jalsha HD
+http://livetvbox.live:8080/live/Juan/Juan/23218.ts
+#EXTINF:-1 group-title="BDIX",51. Colors Bangla HD
+http://livetvbox.live:8080/live/Juan/Juan/23306.ts
+#EXTINF:-1 group-title="BDIX",52. ZEE BANGLA HD
+http://livetvbox.live:8080/live/Juan/Juan/435.ts
+#EXTINF:-1 group-title="BDIX",53. Jalsha Movies HD
+http://livetvbox.live:8080/live/Juan/Juan/23304.ts
+#EXTINF:-1 group-title="BDIX",54. Enter10 Bangla
+http://livetvbox.live:8080/live/Juan/Juan/3801.ts
+#EXTINF:-1 group-title="BDIX",55. Sun Bangla
+http://livetvbox.live:8080/live/Juan/Juan/3753.ts
+#EXTINF:-1 group-title="BDIX",56. Star Movies HD
+http://livetvbox.live:8080/live/Juan/Juan/98842.ts
+#EXTINF:-1 group-title="BDIX",57. Sony Pix
+http://livetvbox.live:8080/live/Juan/Juan/98846.ts
+#EXTINF:-1 group-title="BDIX",58. &FLIX HD
+http://livetvbox.live:8080/live/Juan/Juan/98841.ts
+#EXTINF:-1 group-title="BDIX",59. &PRIVE HD
+http://livetvbox.live:8080/live/Juan/Juan/98840.ts
+#EXTINF:-1 group-title="BDIX",60. +MN HD
+http://livetvbox.live:8080/live/Juan/Juan/98847.ts
