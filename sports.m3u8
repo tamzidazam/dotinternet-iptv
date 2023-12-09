@@ -257,3 +257,23 @@ http://node01.nntv.az:8153/ch5/ch5.hi.m3u8
 http://node01.nntv.az:8153/ch6/ch6.hi.m3u8
 #EXTINF:-1 ,Bein Sports 3XTRA HD
 http://node01.nntv.az:8153/ch2/ch2.hi.m3u8
+#EXTINF:-1,TNT Sports 1 HD
+https://247c.mrgamingstreams.com/mrgamingbtsport1.m3u8
+#EXTINF:-1,TNT Sports 4(BD)
+https://247c.mrgamingstreams.com/mrgamingbtsport4.m3u8
+#EXTINF:-1,TNT Sports 3(BD)
+https://247c.mrgamingstreams.com/mrgamingbtsport3.m3u8
+#EXTINF:-1,TNT Sports 2(BD)
+https://247c.mrgamingstreams.com/mrgamingbtsport2.m3u8
+#EXTINF:-1,Star Sports 1
+https://edge4-moblive.yuppcdn.net/trans1sd/smil:starsports1.smil/playlist.m3u8
+#EXTINF:-1,Star Sports 1 SD,http://103.2.153.38/trans1sd/smil:starsports1.smil/chunklist_w492822809_b596000.m3u8
+#EXTINF:-1,Willow Cricket
+https://247b.mrgamingstreams.com/mrgamingwillow.m3u8
+#EXTINF:-1,Ten Sports,http://37.49.225.197:8080/F17744/SHMbJjadvzkxm3BE/151863
+#EXTINF:-1,SUPER SPORTS VARIETY 2
+https://mlb.mrgamingstreams.com/variety2.m3u8
+#EXTINF:-1,SUPER SPORTS VARIETY 3
+https://mlb.mrgamingstreams.com/variety3.m3u8
+#EXTINF:-1,PTV sports,http://175.107.244.52:4457/play/a08g/index.m3u8
+Star sports,http://103.2.153.38/trans1sd/smil:starsports1.smil/chunklist.m3u8
