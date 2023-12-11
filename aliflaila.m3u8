@@ -1,4 +1,76 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/somoy.jpg" group-title="Bangla",Somoy TV 
+https://cdn8.aliflailabd.com/Somoy-tv/index.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/satv.jpg" group-title="Bangla",SATV 
+https://cdn8.aliflailabd.com/SATV/index.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/jamunatv.jpg" group-title="Bangla",Jamuna TV 
+https://cdn8.aliflailabd.com/jamuna-tv/index.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/independenttv.jpg" group-title="Bangla",Independent TV 
+https://cdn8.aliflailabd.com/INDEPENDENT-TV/index.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/nagorik.jpg" group-title="Bangla",Nagorik TV 
+https://cdn8.aliflailabd.com/Nagorik-tv/index.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/banglavision.jpg" group-title="Bangla",Banglavision
+https://cdn8.aliflailabd.com/banglavision/index.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/atnnews.jpg" group-title="Bangla",ATN News 
+https://cdn8.aliflailabd.com/atn-news/index.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/deeptotv.jpg" group-title="Bangla",Deepto TV 
+https://cdn8.aliflailabd.com/deepto-tv/index.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/atnbangla.jpg" group-title="Bangla",ATN Bangla 
+https://cdn8.aliflailabd.com/ATN-Bangla/index.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/ntv.jpg" group-title="Bangla",NTV
+https://cdn8.aliflailabd.com/ntv/index.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/channeli.jpg" group-title="Bangla",Channel I 
+https://cdn8.aliflailabd.com/Channel-i/index.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/gaanbangla.jpg" group-title="Bangla",Gaan Bangla 
+https://cdn8.aliflailabd.com/GaanBangla/index.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/duronto.jpg" group-title="Bangla",Duronto TV 
+https://cdn8.aliflailabd.com/Duronto-tv/index.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/ekattortv.jpg" group-title="Bangla",Ekattor 
+https://cdn8.aliflailabd.com/Ekattor/index.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/ekushey.jpg" group-title="Bangla",Ekushey TV 
+https://cdn8.aliflailabd.com/Ekushey-TV/index.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/mytv.jpg" group-title="Bangla",MYTV HD 
+https://cdn8.aliflailabd.com/MYTV-HD/index.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/btv.jpg" group-title="Bangla",BTV 
+https://cdn8.aliflailabd.com/BTV/index.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/mohonatv.jpg" group-title="Bangla",Mohona TV 
+https://cdn8.aliflailabd.com/mohona-tv/index.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/rtv.jpg" group-title="Bangla",RTV 
+https://cdn8.aliflailabd.com/RTV/index.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/nexustv.jpg" group-title="Bangla",Nexus TV 
+https://cdn8.aliflailabd.com/nexus-tv/index.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/news24.jpg" group-title="Bangla",News 24
+https://cdn8.aliflailabd.com/News-24/index.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/dbc.jpg" group-title="Bangla",DBC News 
+https://cdn8.aliflailabd.com/DBC-News/index.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/banglatv.jpg" group-title="Bangla",Bangla TV 
+https://cdn8.aliflailabd.com/Bangla-TV/index.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/anandotv.jpg" group-title="Bangla",Anando TV 
+https://cdn8.aliflailabd.com/Anando-TV/index.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/desh.jpg" group-title="Bangla",Desh TV 
+https://cdn8.aliflailabd.com/Desh-tv/index.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/boishakhi.jpg" group-title="Bangla",Boishakhi 
+https://cdn8.aliflailabd.com/Boishakhi/index.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/shangsadbangladesh.jpg" group-title="Bangla",Sangsad TV 
+https://cdn8.aliflailabd.com/Sangsad-tv/index.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/bijoytv.jpg" group-title="Bangla",Bijoy TV 
+https://cdn8.aliflailabd.com/bijoy-tv/index.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/channel24.jpg" group-title="Bangla",Channel 24
+https://cdn8.aliflailabd.com/CHANNEL-24/index.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/c9.png" group-title="Bangla",Channel 9
+https://cdn8.aliflailabd.com/Channel-9/index.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/maasranga.jpg" group-title="Bangla",Maasranga TV 
+https://cdn8.aliflailabd.com/maasranga-tv/index.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/moviebangla.jpg" group-title="Bangla",Movie Bangla 
+https://cdn8.aliflailabd.com/movie-bangla/index.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/asiantv.jpg" group-title="Bangla",Asian TV
+https://cdn8.aliflailabd.com/asiantv/index.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/madani.jpg" group-title="Bangla",Madani TV 
+https://cdn8.aliflailabd.com/madani-tv/index.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/global.jpg" group-title="Bangla",Global TV 
+https://cdn8.aliflailabd.com/global-tv/index.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/btvworld.jpg" group-title="Bangla",BTV World 
+https://cdn8.aliflailabd.com/btv-world/index.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/livesports.png" group-title="Sports",Sports 1
 https://cdn8.aliflailabd.com/sports-ch-1/index.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/livesports.png" group-title="Sports",Sports-2
@@ -169,77 +241,3 @@ https://cdn8.aliflailabd.com/nat-geo-wild/index.m3u8
 https://cdn8.aliflailabd.com/mnx/index.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/travelxp.jpg" group-title="English",Travel XP
 https://cdn8.aliflailabd.com/travel-xp/index.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/madani.jpg" group-title="Bangla",Madani TV 
-https://cdn8.aliflailabd.com/madani-tv/index.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/global.jpg" group-title="Bangla",Global TV 
-https://cdn8.aliflailabd.com/global-tv/index.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/btvworld.jpg" group-title="Bangla",BTV World 
-https://cdn8.aliflailabd.com/btv-world/index.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/satv.jpg" group-title="Bangla",SATV 
-https://cdn8.aliflailabd.com/SATV/index.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/jamunatv.jpg" group-title="Bangla",Jamuna TV 
-https://cdn8.aliflailabd.com/jamuna-tv/index.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/independenttv.jpg" group-title="Bangla",Independent TV 
-https://cdn8.aliflailabd.com/INDEPENDENT-TV/index.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/nagorik.jpg" group-title="Bangla",Nagorik TV 
-https://cdn8.aliflailabd.com/Nagorik-tv/index.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/banglavision.jpg" group-title="Bangla",Banglavision
-https://cdn8.aliflailabd.com/banglavision/index.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/atnnews.jpg" group-title="Bangla",ATN News 
-https://cdn8.aliflailabd.com/atn-news/index.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/deeptotv.jpg" group-title="Bangla",Deepto TV 
-https://cdn8.aliflailabd.com/deepto-tv/index.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/atnbangla.jpg" group-title="Bangla",ATN Bangla 
-https://cdn8.aliflailabd.com/ATN-Bangla/index.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/ntv.jpg" group-title="Bangla",NTV
-https://cdn8.aliflailabd.com/ntv/index.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/channeli.jpg" group-title="Bangla",Channel I 
-https://cdn8.aliflailabd.com/Channel-i/index.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/gaanbangla.jpg" group-title="Bangla",Gaan Bangla 
-https://cdn8.aliflailabd.com/GaanBangla/index.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/duronto.jpg" group-title="Bangla",Duronto TV 
-https://cdn8.aliflailabd.com/Duronto-tv/index.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/ekattortv.jpg" group-title="Bangla",Ekattor 
-https://cdn8.aliflailabd.com/Ekattor/index.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/ekushey.jpg" group-title="Bangla",Ekushey TV 
-https://cdn8.aliflailabd.com/Ekushey-TV/index.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/mytv.jpg" group-title="Bangla",MYTV HD 
-https://cdn8.aliflailabd.com/MYTV-HD/index.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/somoy.jpg" group-title="Bangla",Somoy TV 
-https://cdn8.aliflailabd.com/Somoy-tv/index.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/btv.jpg" group-title="Bangla",BTV 
-https://cdn8.aliflailabd.com/BTV/index.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/mohonatv.jpg" group-title="Bangla",Mohona TV 
-https://cdn8.aliflailabd.com/mohona-tv/index.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/rtv.jpg" group-title="Bangla",RTV 
-https://cdn8.aliflailabd.com/RTV/index.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/nexustv.jpg" group-title="Bangla",Nexus TV 
-https://cdn8.aliflailabd.com/nexus-tv/index.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/news24.jpg" group-title="Bangla",News 24
-https://cdn8.aliflailabd.com/News-24/index.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/dbc.jpg" group-title="Bangla",DBC News 
-https://cdn8.aliflailabd.com/DBC-News/index.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/banglatv.jpg" group-title="Bangla",Bangla TV 
-https://cdn8.aliflailabd.com/Bangla-TV/index.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/anandotv.jpg" group-title="Bangla",Anando TV 
-https://cdn8.aliflailabd.com/Anando-TV/index.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/desh.jpg" group-title="Bangla",Desh TV 
-https://cdn8.aliflailabd.com/Desh-tv/index.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/boishakhi.jpg" group-title="Bangla",Boishakhi 
-https://cdn8.aliflailabd.com/Boishakhi/index.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/shangsadbangladesh.jpg" group-title="Bangla",Sangsad TV 
-https://cdn8.aliflailabd.com/Sangsad-tv/index.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/bijoytv.jpg" group-title="Bangla",Bijoy TV 
-https://cdn8.aliflailabd.com/bijoy-tv/index.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/channel24.jpg" group-title="Bangla",Channel 24
-https://cdn8.aliflailabd.com/CHANNEL-24/index.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/c9.png" group-title="Bangla",Channel 9
-https://cdn8.aliflailabd.com/Channel-9/index.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/maasranga.jpg" group-title="Bangla",Maasranga TV 
-https://cdn8.aliflailabd.com/maasranga-tv/index.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/moviebangla.jpg" group-title="Bangla",Movie Bangla 
-https://cdn8.aliflailabd.com/movie-bangla/index.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/asiantv.jpg" group-title="Bangla",Asian TV
-https://cdn8.aliflailabd.com/asiantv/index.m3u8
-
-
