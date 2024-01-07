@@ -451,17 +451,3 @@ https://bdsajib112.000webhostapp.com/api/bdaynaa.php?id=224&e=.m3u8|User-Agent=b
 https://bdsajib112.000webhostapp.com/api/bdaynaa.php?id=225&e=.m3u8|User-Agent=bdsajib
 
 
-#EXTINF:-1 tvg-id="1" tvg-name="BDSAJIB" tvg-country="IN" tvg-logo="https://telegra.ph/file/cc92c84e58265bd795a61.png" tvg-chno="1" group-title="ABOUT ME", BDSATV
-https://drive.google.com/uc?export=download&id=1l9fH2pV1_0igN5kBxqMTmr0fq0LRnM0_
-
-
-#EXTINF: -1 tvg-name="Discovary  HD" tvg-logo="https://i.ibb.co/th4yLpg/discovery.png" group-title="Documentary", Discovary  1
-https://od.lk/s/ODRfNzIxOTE5NjJf/Discovery.m3u8
-#EXTINF: -1 tvg-name="Discovary  HD" tvg-logo="https://i.ibb.co/th4yLpg/discovery.png" group-title="Documentary", Discovary  2
-https://varun-iptv.netlify.app/m3u/discoverybengali.m3u8
-#EXTINF: -1 tvg-name="Discovary  HD" tvg-logo="https://i.ibb.co/th4yLpg/discovery.png" group-title="Documentary", Discovary  3
-https://tv.durbinlive.com/api/dc/Discovery_Bangla.m3u8
-#EXTINF: -1 tvg-name="Discovary  HD" tvg-logo="https://i.ibb.co/th4yLpg/discovery.png" group-title="Documentary", Discovary 4
-https://raw.githubusercontent.com/shiki57/infinitysports/main/discovery.m3u8
-#EXTINF: -1 tvg-name="Discovary  HD" tvg-logo="https://i.ibb.co/th4yLpg/discovery.png" group-title="Documentary", Discovary 5
-https://mhdtvplay.net/delta/discovery/api/Discovery_Hindi.m3u8
