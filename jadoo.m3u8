@@ -1,37 +1,37 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://example.com/logos/atn_bangla.png",ATN Bangla
+#EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/atn_bangla.png",ATN Bangla
 https://jadoo.iptvbd.xyz/jadoo.php?id=atn_bangla&e=.m3u8
-#EXTINF:-1 tvg-logo="https://example.com/logos/atn_news.png",ATN News
+#EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/atn_news.png",ATN News
 https://jadoo.iptvbd.xyz/jadoo.php?id=atn_news&e=.m3u8
-#EXTINF:-1 tvg-logo="https://example.com/logos/arirang.png",Arirang
+#EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/arirang.png",Arirang
 https://jadoo.iptvbd.xyz/jadoo.php?id=arirang&e=.m3u8
-#EXTINF:-1 tvg-logo="https://example.com/logos/colors_hd.png",Colors HD
+#EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/colors_hd.png",Colors HD
 https://jadoo.iptvbd.xyz/jadoo.php?id=colors_hd&e=.m3u8
-#EXTINF:-1 tvg-logo="https://example.com/logos/my_tv.png",My TV
+#EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/my_tv.png",My TV
 https://jadoo.iptvbd.xyz/jadoo.php?id=my_tv&e=.m3u8
-#EXTINF:-1 tvg-logo="https://example.com/logos/asian_tv.png",Asian TV
+#EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/asian_tv.png",Asian TV
 https://jadoo.iptvbd.xyz/jadoo.php?id=asian_tv&e=.m3u8
-#EXTINF:-1 tvg-logo="https://example.com/logos/bbc_lifestyle.png",BBC Lifestyle
+#EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/bbc_lifestyle.png",BBC Lifestyle
 https://jadoo.iptvbd.xyz/jadoo.php?id=bbc_lifestyle&e=.m3u8
-#EXTINF:-1 tvg-logo="https://example.com/logos/bangla_tv.png",Bangla TV
+#EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/bangla_tv.png",Bangla TV
 https://jadoo.iptvbd.xyz/jadoo.php?id=bangla_tv&e=.m3u8
-#EXTINF:-1 tvg-logo="https://example.com/logos/bangla_vision.png",Bangla Vision
+#EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/bangla_vision.png",Bangla Vision
 https://jadoo.iptvbd.xyz/jadoo.php?id=bangla_vision&e=.m3u8
-#EXTINF:-1 tvg-logo="https://example.com/logos/bijoy_tv.png",Bijoy TV
+#EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/bijoy_tv.png",Bijoy TV
 https://jadoo.iptvbd.xyz/jadoo.php?id=bijoy_tv&e=.m3u8
-#EXTINF:-1 tvg-logo="https://example.com/logos/boishakhi_tv.png",Boishakhi TV
+#EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/boishakhi_tv.png",Boishakhi TV
 https://jadoo.iptvbd.xyz/jadoo.php?id=boishakhi_tv&e=.m3u8
-#EXTINF:-1 tvg-logo="https://example.com/logos/cbeebies_asia.png",CBeebies Asia
+#EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/cbeebies_asia.png",CBeebies Asia
 https://jadoo.iptvbd.xyz/jadoo.php?id=cbeebies_asia&e=.m3u8
-#EXTINF:-1 tvg-logo="https://example.com/logos/cgtn_news.png",CGTN News
+#EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/cgtn_news.png",CGTN News
 https://jadoo.iptvbd.xyz/jadoo.php?id=cgtn_news&e=.m3u8
-#EXTINF:-1 tvg-logo="https://example.com/logos/cnn.png",CNN
+#EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/cnn.png",CNN
 https://jadoo.iptvbd.xyz/jadoo.php?id=cnn&e=.m3u8
-#EXTINF:-1 tvg-logo="https://example.com/logos/channel_24.png",Channel 24
+#EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/channel_24.png",Channel 24
 https://jadoo.iptvbd.xyz/jadoo.php?id=channel_24&e=.m3u8
-#EXTINF:-1 tvg-logo="https://example.com/logos/channel_9.png",Channel 9
+#EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/channel_9.png",Channel 9
 https://jadoo.iptvbd.xyz/jadoo.php?id=channel_9&e=.m3u8
-#EXTINF:-1 tvg-logo="https://example.com/logos/channel_i.png",Channel i
+#EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/channel_i.png",Channel i
 https://jadoo.iptvbd.xyz/jadoo.php?id=channel_i&e=.m3u8
 #EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/dbc_news.png",DBC News
 https://jadoo.iptvbd.xyz/jadoo.php?id=dbc_news&e=.m3u8
