@@ -1,87 +1,87 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/atn_bangla.png",ATN Bangla
+#EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/atn_bangla.png" group-title"Backup 1",ATN Bangla
 https://jadoo.iptvbd.xyz/jadoo.php?id=atn_bangla&e=.m3u8
-#EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/atn_news.png",ATN News
+#EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/atn_news.png" group-title"Backup 1",ATN News
 https://jadoo.iptvbd.xyz/jadoo.php?id=atn_news&e=.m3u8
-#EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/arirang.png",Arirang
+#EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/arirang.png" group-title"Backup 1",Arirang
 https://jadoo.iptvbd.xyz/jadoo.php?id=arirang&e=.m3u8
-#EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/colors_hd.png",Colors HD
+#EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/colors_hd.png" group-title"Backup 1",Colors HD
 https://jadoo.iptvbd.xyz/jadoo.php?id=colors_hd&e=.m3u8
-#EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/my_tv.png",My TV
+#EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/my_tv.png" group-title"Backup 1",My TV
 https://jadoo.iptvbd.xyz/jadoo.php?id=my_tv&e=.m3u8
-#EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/asian_tv.png",Asian TV
+#EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/asian_tv.png" group-title"Backup 1",Asian TV
 https://jadoo.iptvbd.xyz/jadoo.php?id=asian_tv&e=.m3u8
-#EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/bbc_lifestyle.png",BBC Lifestyle
+#EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/bbc_lifestyle.png" group-title"Backup 1",BBC Lifestyle
 https://jadoo.iptvbd.xyz/jadoo.php?id=bbc_lifestyle&e=.m3u8
-#EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/bangla_tv.png",Bangla TV
+#EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/bangla_tv.png" group-title"Backup 1",Bangla TV
 https://jadoo.iptvbd.xyz/jadoo.php?id=bangla_tv&e=.m3u8
-#EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/bangla_vision.png",Bangla Vision
+#EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/bangla_vision.png" group-title"Backup 1",Bangla Vision
 https://jadoo.iptvbd.xyz/jadoo.php?id=bangla_vision&e=.m3u8
-#EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/bijoy_tv.png",Bijoy TV
+#EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/bijoy_tv.png" group-title"Backup 1",Bijoy TV
 https://jadoo.iptvbd.xyz/jadoo.php?id=bijoy_tv&e=.m3u8
-#EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/boishakhi_tv.png",Boishakhi TV
+#EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/boishakhi_tv.png" group-title"Backup 1",Boishakhi TV
 https://jadoo.iptvbd.xyz/jadoo.php?id=boishakhi_tv&e=.m3u8
-#EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/cbeebies_asia.png",CBeebies Asia
+#EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/cbeebies_asia.png" group-title"Backup 1",CBeebies Asia
 https://jadoo.iptvbd.xyz/jadoo.php?id=cbeebies_asia&e=.m3u8
-#EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/cgtn_news.png",CGTN News
+#EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/cgtn_news.png" group-title"Backup 1",CGTN News
 https://jadoo.iptvbd.xyz/jadoo.php?id=cgtn_news&e=.m3u8
-#EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/cnn.png",CNN
+#EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/cnn.png" group-title"Backup 1",CNN
 https://jadoo.iptvbd.xyz/jadoo.php?id=cnn&e=.m3u8
-#EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/channel_24.png",Channel 24
+#EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/channel_24.png" group-title"Backup 1",Channel 24
 https://jadoo.iptvbd.xyz/jadoo.php?id=channel_24&e=.m3u8
-#EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/channel_9.png",Channel 9
+#EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/channel_9.png" group-title"Backup 1",Channel 9
 https://jadoo.iptvbd.xyz/jadoo.php?id=channel_9&e=.m3u8
-#EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/channel_i.png",Channel i
+#EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/channel_i.png" group-title"Backup 1",Channel i
 https://jadoo.iptvbd.xyz/jadoo.php?id=channel_i&e=.m3u8
-#EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/dbc_news.png",DBC News
+#EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/dbc_news.png" group-title"Backup 1",DBC News
 https://jadoo.iptvbd.xyz/jadoo.php?id=dbc_news&e=.m3u8
-#EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/dw.png",DW
+#EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/dw.png" group-title"Backup 1",DW
 https://jadoo.iptvbd.xyz/jadoo.php?id=dw&e=.m3u8
-#EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/deepto_tv.png",Deepto TV
+#EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/deepto_tv.png" group-title"Backup 1",Deepto TV
 https://jadoo.iptvbd.xyz/jadoo.php?id=deepto_tv&e=.m3u8
-#EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/desh_tv.png",Desh TV
+#EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/desh_tv.png" group-title"Backup 1",Desh TV
 https://jadoo.iptvbd.xyz/jadoo.php?id=desh_tv&e=.m3u8
-#EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/duronto_tv.png",Duronto TV
+#EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/duronto_tv.png" group-title"Backup 1",Duronto TV
 https://jadoo.iptvbd.xyz/jadoo.php?id=duronto_tv&e=.m3u8
-#EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/ekattor_tv.png",Ekattor TV
+#EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/ekattor_tv.png" group-title"Backup 1",Ekattor TV
 https://jadoo.iptvbd.xyz/jadoo.php?id=ekattor_tv&e=.m3u8
-#EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/ekushey_tv.png",Ekushey TV
+#EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/ekushey_tv.png" group-title"Backup 1",Ekushey TV
 https://jadoo.iptvbd.xyz/jadoo.php?id=ekushey_tv&e=.m3u8
-#EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/fox_action_movies_hd.png",Fox Action Movies HD
+#EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/fox_action_movies_hd.png" group-title"Backup 1",Fox Action Movies HD
 https://jadoo.iptvbd.xyz/jadoo.php?id=fox_action_movies_hd&e=.m3u8
-#EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/gazi_tv_hd.png",Gazi TV HD
+#EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/gazi_tv_hd.png" group-title"Backup 1",Gazi TV HD
 https://jadoo.iptvbd.xyz/jadoo.php?id=gazi_tv_hd&e=.m3u8
-#EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/independent_tv.png",Independent TV
+#EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/independent_tv.png" group-title"Backup 1",Independent TV
 https://jadoo.iptvbd.xyz/jadoo.php?id=independent_tv&e=.m3u8
-#EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/jamuna_tv.png",Jamuna TV
+#EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/jamuna_tv.png" group-title"Backup 1",Jamuna TV
 https://jadoo.iptvbd.xyz/jadoo.php?id=jamuna_tv&e=.m3u8
-#EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/macau_lotus.png",Macau Lotus
+#EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/macau_lotus.png" group-title"Backup 1",Macau Lotus
 https://jadoo.iptvbd.xyz/jadoo.php?id=macau_lotus&e=.m3u8
-#EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/maasranga.png",Maasranga
+#EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/maasranga.png" group-title"Backup 1",Maasranga
 https://jadoo.iptvbd.xyz/jadoo.php?id=maasranga&e=.m3u8
-#EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/nhk_world.png",NHK World
+#EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/nhk_world.png" group-title"Backup 1",NHK World
 https://jadoo.iptvbd.xyz/jadoo.php?id=nhk_world&e=.m3u8
-#EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/ntv.png",NTV
+#EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/ntv.png" group-title"Backup 1",NTV
 https://jadoo.iptvbd.xyz/jadoo.php?id=ntv&e=.m3u8
-#EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/nagorik_tv.png",Nagorik TV
+#EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/nagorik_tv.png" group-title"Backup 1",Nagorik TV
 https://jadoo.iptvbd.xyz/jadoo.php?id=nagorik_tv&e=.m3u8
-#EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/news_24_hd.png",News 24 HD
+#EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/news_24_hd.png" group-title"Backup 1",News 24 HD
 https://jadoo.iptvbd.xyz/jadoo.php?id=news_24_hd&e=.m3u8
-#EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/nexus_tv.png",Nexus TV
+#EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/nexus_tv.png" group-title"Backup 1",Nexus TV
 https://jadoo.iptvbd.xyz/jadoo.php?id=nexus_tv&e=.m3u8
-#EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/quran_tv.png",Quran TV
+#EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/quran_tv.png" group-title"Backup 1",Quran TV
 https://jadoo.iptvbd.xyz/jadoo.php?id=quran_tv&e=.m3u8
-#EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/rt_english.png",RT English
+#EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/rt_english.png" group-title"Backup 1",RT English
 https://jadoo.iptvbd.xyz/jadoo.php?id=rt_english&e=.m3u8
-#EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/rtv.png",RTV
+#EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/rtv.png" group-title"Backup 1",RTV
 https://jadoo.iptvbd.xyz/jadoo.php?id=rtv&e=.m3u8
-#EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/sa_tv.png",SA TV
+#EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/sa_tv.png" group-title"Backup 1",SA TV
 https://jadoo.iptvbd.xyz/jadoo.php?id=sa_tv&e=.m3u8
-#EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/somoy_news.png",Somoy News
+#EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/somoy_news.png" group-title"Backup 1",Somoy News
 https://jadoo.iptvbd.xyz/jadoo.php?id=somoy_news&e=.m3u8
-#EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/zee_bangla.png",Zee Bangla
+#EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/zee_bangla.png" group-title"Backup 1",Zee Bangla
 https://jadoo.iptvbd.xyz/jadoo.php?id=zee_bangla&e=.m3u8
-#EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/zee_cinema_hd.png",Zee Cinema HD
+#EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/zee_cinema_hd.png" group-title"Backup 1",Zee Cinema HD
 https://jadoo.iptvbd.xyz/jadoo.php?id=zee_cinema_hd&e=.m3u8
-#EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/zee_tv.png",Zee TV
+#EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/zee_tv.png" group-title"Backup 1",Zee TV
 https://jadoo.iptvbd.xyz/jadoo.php?id=zee_tv&e=.m3u8
