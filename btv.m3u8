@@ -1,8 +1,8 @@
 #EXTM3U
 #EXTINF:-1 ,Tamasha Sports
 https://alibabacdn2.tamashaweb.com/alibaba02/alibaba02stream_alibaba-02.m3u8?aliyunols=on
-#EXTINF:-1 ,Fancode
-https://play.shihab.fun/in/stream.php?url=https://dai.fancode.com/primary/125493_english_hls_83824ta-di_h264/index.m3u8|Referer=https://play.shihab.fun/
+#EXTINF:-1 ,PTV
+https://liveiptvfreebd@live.incableinternet.com/v/QCZ86p6-0oo_1.m3u8
 #EXTINF:-1 ,Tsports New
 http://c1.frsports.info/UAEt20/tracks-v1a1/mono.m3u8?token=8cb78fab83dc033c16aa7f693bb87814fadeb62a0d10a67b2ca11b70809738d2-1747495796-1747495719
 
